@@ -15,22 +15,22 @@
     <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on Yuba River</title>
     <creator>
       <individualName>
+        <givenName>Jason</givenName>
+        <surName>Kindopp</surName>
+      </individualName>
+      <organizationName>California Department of Water Resources</organizationName>
+      <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
+    </creator>
+    <associatedParty>
+      <individualName>
         <givenName>Casey</givenName>
         <surName>Campos</surName>
       </individualName>
       <organizationName>California Department of Water Resources</organizationName>
       <electronicMailAddress>Casey.Campos@water.ca.gov</electronicMailAddress>
-    </creator>
-    <associatedParty>
-      <individualName>
-        <givenName>Kassie</givenName>
-        <surName>Hickey</surName>
-      </individualName>
-      <organizationName>California Department of Water Resources</organizationName>
-      <electronicMailAddress>kassie.hickey@water.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2023-09-20</pubDate>
+    <pubDate>2023-09-21</pubDate>
     <abstract>
       <para>
     TO BE COMPLETED
@@ -46,6 +46,8 @@
       <keyword>RST</keyword>
       <keyword>California</keyword>
       <keyword>Central Valley</keyword>
+      <keyword>SRJPE</keyword>
+      <keyword>Chinook salmon</keyword>
     </keywordSet>
     <intellectualRights>
       <para>This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data ("Data User" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.</para>
@@ -114,11 +116,11 @@
     </maintenance>
     <contact>
       <individualName>
-        <givenName>Casey</givenName>
-        <surName>Campos</surName>
+        <givenName>Jason</givenName>
+        <surName>Kindopp</surName>
       </individualName>
       <organizationName>California Department of Water Resources</organizationName>
-      <electronicMailAddress>Casey.Campos@water.ca.gov</electronicMailAddress>
+      <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
     </contact>
     <methods>
       <methodStep>
@@ -133,11 +135,11 @@
       <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on Yuba River</title>
       <personnel>
         <individualName>
-          <givenName>Casey</givenName>
-          <surName>Campos</surName>
+          <givenName>Jason</givenName>
+          <surName>Kindopp</surName>
         </individualName>
         <organizationName>California Department of Water Resources</organizationName>
-        <electronicMailAddress>Casey.Campos@water.ca.gov</electronicMailAddress>
+        <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
         <role>Project Lead</role>
       </personnel>
     </project>
@@ -171,7 +173,14 @@
           <attributeDefinition>Foreign key to the CAMP ProjectDescription table. All data associated with this package will have a ProjectDescriptionID = 7.</attributeDefinition>
           <measurementScale>
             <ordinal>
-              <nonNumericDomain/>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>7</code>
+                    <definition>Yuba River RST program</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
             </ordinal>
           </measurementScale>
         </attribute>
@@ -419,7 +428,7 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>12128</numberOfRecords>
+      <numberOfRecords>112927</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>yuba_recapture_edi.csv</entityName>
@@ -451,7 +460,14 @@
           <attributeDefinition>Foreign key to the CAMP ProjectDescription table. All data associated with this package will have a ProjectDescriptionID = 7.</attributeDefinition>
           <measurementScale>
             <ordinal>
-              <nonNumericDomain/>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>7</code>
+                    <definition>Yuba River RST program</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
             </ordinal>
           </measurementScale>
         </attribute>
@@ -1319,7 +1335,7 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>630</numberOfRecords>
+      <numberOfRecords>3893</numberOfRecords>
     </dataTable>
   </dataset>
   <additionalMetadata>
