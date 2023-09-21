@@ -29,14 +29,14 @@ releases <- read_xlsx(here::here("data-raw", "EDI Query- Releases_2023.xlsx")) |
   glimpse()
 
 # save --------------------------------------------------------------------
-write.csv(catch_recent, here::here("data", "catch.csv"), row.names = FALSE)
-write.csv(trap_recent, here::here("data", "trap.csv"), row.names = FALSE)
-write.csv(recaptures, here::here("data", "recaptures.csv"), row.names = FALSE)
-write.csv(releases, here::here("data", "releases.csv"), row.names = FALSE)
+write.csv(catch_recent, here::here("data", "yuba_catch_edi.csv"), row.names = FALSE)
+write.csv(trap_recent, here::here("data", "yuba_trap_edi.csv"), row.names = FALSE)
+write.csv(recaptures, here::here("data", "yuba_recapture_edi.csv"), row.names = FALSE)
+write.csv(releases, here::here("data", "yuba_release_edi.csv"), row.names = FALSE)
 
 # read in clean -----------------------------------------------------------
-read.csv(here::here("data", "catch.csv")) |> glimpse()
-read.csv(here::here("data", "trap.csv")) |> glimpse()
-read.csv(here::here("data", "recaptures.csv")) |> glimpse()
-read.csv(here::here("data", "releases.csv")) |> glimpse()
+read.csv(here::here("data", "yuba_catch_edi.csv")) |> glimpse()
+read.csv(here::here("data", "yuba_trap_edi.csv")) |> glimpse()
+read.csv(here::here("data", "yuba_recapture_edi.csv")) |> glimpse()
+read.csv(here::here("data", "yuba_release_edi.csv")) |> glimpse()
 
