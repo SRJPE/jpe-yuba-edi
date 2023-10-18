@@ -1,5 +1,4 @@
 "projectDescriptionID","trapVisitID","visitTime","siteName","subSiteName","visitType","fishProcessed","trapFunctioning","counterAtEnd","rpmRevolutionsAtStart","rpmRevolutionsAtEnd","includeCatch","waterVel","waterTemp","turbidity"
-2,1,2022-10-17 13:58:04,"Hallwood","Hallwood 1 RR","Start trap & begin trapping","Not applicable","Trap functioning normally",NA,NA,0.5,"Yes",NA,18,0.550000011920929
 7,2,2022-10-17 13:58:44,"Hallwood","Hallwood 1 RR","Start trap & begin trapping","Not applicable","Trap functioning normally",NA,NA,0.5,"Yes",NA,18,0.550000011920929
 7,3,2022-10-18 09:53:53,"Hallwood","Hallwood 1 RR","Continue trapping","No fish were caught","Trap functioning normally",475,0.5,0.300000011920929,"Yes",NA,18,NA
 7,4,2022-10-19 11:55:22,"Hallwood","Hallwood 1 RR","Continue trapping","Processed fish","Trap functioning normally",617,0.600000023841858,0.600000023841858,"Yes",NA,18,NA

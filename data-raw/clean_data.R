@@ -18,6 +18,7 @@ catch_recent <- read_xlsx(here::here("data-raw", "EDI Query - Catch Raw_2023.xls
 
 # trap (2023-onward)
 trap_recent <- read_xlsx(here::here("data-raw", "EDI Query- Trap Visit_2023.xlsx")) |>
+  filter(projectDescriptionID == 7) |>
   select(-c(discharge)) |>
   glimpse()
 
