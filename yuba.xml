@@ -23,17 +23,31 @@
     </creator>
     <associatedParty>
       <individualName>
-        <givenName>Kassie</givenName>
-        <surName>Hickey</surName>
+        <givenName>Jason</givenName>
+        <surName>Kindopp</surName>
       </individualName>
       <organizationName>California Department of Water Resources</organizationName>
-      <electronicMailAddress>kassie.hickey@water.ca.gov</electronicMailAddress>
+      <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2023-09-20</pubDate>
+    <pubDate>2023-10-17</pubDate>
     <abstract>
       <para>
-    TO BE COMPLETED
+    California Department of Water Resources (DWR) currently operates
+    multiple eight-foot rotary screw traps (RSTs) at Hallwood Boulevard
+    RM 7.5. RST operations were conducted by CDFW and then under the
+    direction of the Yuba River Management Team from 1999 to 2009 at the
+    Hallwood Boulevard site; and resumed in 2022 by DWR. The Hallwood
+    site will essentially sample all areas of the lower Yuba River
+    upstream of Hallwood Boulevard. Additionally, the Hallwood site is
+    located downstream of the bulk of adult Chinook salmon spawning
+    areas and downstream of all known spring-run Chinook salmon
+    spawning. Data from the DWR monitoring effort will be used to inform
+    the development of a juvenile production estimate (JPE) for
+    spring-run Chinook salmon in the Sacramento River Watershed as
+    required by Incidental Take Permit No. 2081-2019-006-00 issued by CA
+    Department of Fish and Wildlife (CDFW) to DWR for the long-term
+    operation of the State Water Project.
   </para>
     </abstract>
     <keywordSet>
@@ -46,6 +60,8 @@
       <keyword>RST</keyword>
       <keyword>California</keyword>
       <keyword>Central Valley</keyword>
+      <keyword>SRJPE</keyword>
+      <keyword>Chinook salmon</keyword>
     </keywordSet>
     <intellectualRights>
       <para>This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data ("Data User" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.</para>
@@ -59,10 +75,10 @@
       <geographicCoverage>
         <geographicDescription>Yuba River Rotary Screw Trap</geographicDescription>
         <boundingCoordinates>
-          <westBoundingCoordinate>-120.988</westBoundingCoordinate>
-          <eastBoundingCoordinate>-120.8699</eastBoundingCoordinate>
-          <northBoundingCoordinate>39.5506</northBoundingCoordinate>
-          <southBoundingCoordinate>39.5048</southBoundingCoordinate>
+          <westBoundingCoordinate>-121.5525</westBoundingCoordinate>
+          <eastBoundingCoordinate>-121.4254</eastBoundingCoordinate>
+          <northBoundingCoordinate>39.2112</northBoundingCoordinate>
+          <southBoundingCoordinate>39.1619</southBoundingCoordinate>
         </boundingCoordinates>
       </geographicCoverage>
       <temporalCoverage>
@@ -124,7 +140,55 @@
       <methodStep>
         <description>
           <para>
-    TO BE COMPLETED
+    Trap equipment
+  </para>
+          <para>
+    Two 8-foot rotary screw traps; one 5-foot RST (depending on
+    conditions)
+  </para>
+          <para>
+    Quantity = 3 (max)  
+  </para>
+          <para>
+    Current trap locations
+  </para>
+          <para>
+    Hallwood Boulevard RST site at RM 7.5
+  </para>
+          <para>
+    Historical trap locations
+  </para>
+          <para>
+    Monitoring schedule
+  </para>
+          <para>
+    November-June
+  </para>
+          <para>
+    Continuously trapping except under high flows, high temperatures,
+    and unsafe working conditions
+  </para>
+          <para>
+    Serviced daily within a 24-hour period, more if needed due to high
+    debris amounts or fish catch
+  </para>
+          <para>
+    Daily environmental data
+  </para>
+          <para>
+    Fish measurements
+  </para>
+          <para>
+    Fork length measurements to nearest mm taken for:  
+  </para>
+          <para>
+    Fish counts
+  </para>
+          <para>
+    Trap efficiency trials
+  </para>
+          <para>
+    Trap efficiency mark rotation
   </para>
         </description>
       </methodStep>
@@ -171,7 +235,14 @@
           <attributeDefinition>Foreign key to the CAMP ProjectDescription table. All data associated with this package will have a ProjectDescriptionID = 7.</attributeDefinition>
           <measurementScale>
             <ordinal>
-              <nonNumericDomain/>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>7</code>
+                    <definition>Yuba River RST program</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
             </ordinal>
           </measurementScale>
         </attribute>
@@ -334,20 +405,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>mort</attributeName>
-          <attributeLabel>catch</attributeLabel>
-          <attributeDefinition>Whether or not the fish was alive. Levels = c("No", "Yes")</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Whether or not the fish was alive. Levels = c("No", "Yes")</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>forkLength</attributeName>
           <attributeLabel>catch</attributeLabel>
           <attributeDefinition>Fork length of the fish measured in millimeters</attributeDefinition>
@@ -451,7 +508,14 @@
           <attributeDefinition>Foreign key to the CAMP ProjectDescription table. All data associated with this package will have a ProjectDescriptionID = 7.</attributeDefinition>
           <measurementScale>
             <ordinal>
-              <nonNumericDomain/>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>7</code>
+                    <definition>Yuba River RST program</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
             </ordinal>
           </measurementScale>
         </attribute>
@@ -554,20 +618,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>mort</attributeName>
-          <attributeLabel>recapture</attributeLabel>
-          <attributeDefinition>Whether or not the fish was alive. Levels = c("No", "Yes")</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Whether or not the fish was alive. Levels = c("No", "Yes")</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>forkLength</attributeName>
           <attributeLabel>recapture</attributeLabel>
           <attributeDefinition>Fork length of the fish measured in millimeters</attributeDefinition>
@@ -622,15 +672,6 @@
                 </bounds>
               </numericDomain>
             </ratio>
-          </measurementScale>
-        </attribute>
-        <attribute>
-          <attributeName>actualCountID</attributeName>
-          <attributeDefinition>Code referring to whether the count (n) is an actual count or estimate. Levels = (1)</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain/>
-            </nominal>
           </measurementScale>
         </attribute>
         <attribute>
@@ -850,20 +891,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>markedLifeStage</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Lifestage of fish marked. Levels =  NA</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Lifestage of fish marked. Levels =  NA</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>markedFishOrigin</attributeName>
           <attributeLabel>release</attributeLabel>
           <attributeDefinition>Origin or production type of fish marked. Levels = c("Not applicable (n/a)", "Hatchery", "Natural")</attributeDefinition>
@@ -900,20 +927,6 @@
               <nonNumericDomain>
                 <textDomain>
                   <definition>Site where fish were released. Levels = c("Not applicable", "Hallwood Release Site")</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
-          <attributeName>releaseSubSite</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Subsite (within site) where fish were released. Corresponds to a trap location. Levels = NA</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Subsite (within site) where fish were released. Corresponds to a trap location. Levels = NA</definition>
                 </textDomain>
               </nonNumericDomain>
             </nominal>
@@ -1243,25 +1256,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>discharge</attributeName>
-          <attributeLabel>trap</attributeLabel>
-          <attributeDefinition>Discharge measured at trap</attributeDefinition>
-          <measurementScale>
-            <ratio>
-              <unit>
-                <standardUnit>cubicFeetPerSecond</standardUnit>
-              </unit>
-              <numericDomain>
-                <numberType>real</numberType>
-                <bounds>
-                  <minimum exclusive="false">0</minimum>
-                  <maximum exclusive="false">0</maximum>
-                </bounds>
-              </numericDomain>
-            </ratio>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>waterVel</attributeName>
           <attributeLabel>te</attributeLabel>
           <attributeDefinition>Water velocity measured at trap</attributeDefinition>
@@ -1319,7 +1313,7 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>630</numberOfRecords>
+      <numberOfRecords>629</numberOfRecords>
     </dataTable>
   </dataset>
   <additionalMetadata>
