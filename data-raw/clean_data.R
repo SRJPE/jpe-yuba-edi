@@ -4,9 +4,9 @@ library(googleCloudStorageR)
 
 
 # clean -------------------------------------------------------------------
-# TODO historic catch and trap
-# TODO keep mort in catch, recaptures?
-# TODO there is a record in trap with ProjectDescriptionID == 2
+# TODO historic catch and trap (added in historic-data branch, need to confirm with RMT)
+# TODO keep mort in catch, recaptures? (remove)
+# TODO there is a record in trap with ProjectDescriptionID == 2 (remove)
 # TODO trap discharge, waterVel is all NA
 # TODO units for water velocity?
 # TODO run, totalLength, markCode are all NA for recaptures
@@ -106,19 +106,24 @@ trap_format <- standard_trap |>
 # catch (2022-onward)
 catch_recent <- read_xlsx(here::here("data-raw", "EDI Query - Catch Raw_2023.xlsx")) |>
   mutate(releaseID = as.character(releaseID)) |>
+  select(-c(mort)) |>
   bind_rows(catch_format)
 
 # trap (2023-onward)
 trap_recent <- read_xlsx(here::here("data-raw", "EDI Query- Trap Visit_2023.xlsx")) |>
-  bind_rows(trap_format)
+  filter(projectDescriptionID == 7) |>
+  select(-c(discharge)) |>
+  bind_rows(trap_format) |>
+  glimpse()
 
 # recaptures (2022-onward)
 recaptures <- read_xlsx(here::here("data-raw", "EDI Query- Recaptures_2023.xlsx")) |>
+  select(-c(mort, actualCountID)) |>
   glimpse()
 
 # releases (2022-onward)
 releases <- read_xlsx(here::here("data-raw", "EDI Query- Releases_2023.xlsx")) |>
-  mutate(markedLifeStage = ifelse(markedLifeStage == "Not applicable (n/a)", NA, markedLifeStage)) |>
+  select(-c(releaseSubSite, markedLifeStage)) |>
   glimpse()
 
 # save --------------------------------------------------------------------

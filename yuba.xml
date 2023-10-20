@@ -15,25 +15,39 @@
     <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on Yuba River</title>
     <creator>
       <individualName>
-        <givenName>Jason</givenName>
-        <surName>Kindopp</surName>
-      </individualName>
-      <organizationName>California Department of Water Resources</organizationName>
-      <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
-    </creator>
-    <associatedParty>
-      <individualName>
         <givenName>Casey</givenName>
         <surName>Campos</surName>
       </individualName>
       <organizationName>California Department of Water Resources</organizationName>
       <electronicMailAddress>Casey.Campos@water.ca.gov</electronicMailAddress>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>Jason</givenName>
+        <surName>Kindopp</surName>
+      </individualName>
+      <organizationName>California Department of Water Resources</organizationName>
+      <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2023-09-21</pubDate>
+    <pubDate>2023-10-19</pubDate>
     <abstract>
       <para>
-    TO BE COMPLETED
+    California Department of Water Resources (DWR) currently operates
+    multiple eight-foot rotary screw traps (RSTs) at Hallwood Boulevard
+    RM 7.5. RST operations were conducted by CDFW and then under the
+    direction of the Yuba River Management Team from 1999 to 2009 at the
+    Hallwood Boulevard site; and resumed in 2022 by DWR. The Hallwood
+    site will essentially sample all areas of the lower Yuba River
+    upstream of Hallwood Boulevard. Additionally, the Hallwood site is
+    located downstream of the bulk of adult Chinook salmon spawning
+    areas and downstream of all known spring-run Chinook salmon
+    spawning. Data are currently being used to inform the development of
+    a juvenile production estimate (JPE) for spring-run Chinook salmon
+    in the Sacramento River Watershed as required by Incidental Take
+    Permit No. 2081-2019-006-00 issued by CA Department of Fish and
+    Wildlife (CDFW) to DWR for the long-term operation of the State
+    Water Project.
   </para>
     </abstract>
     <keywordSet>
@@ -61,16 +75,16 @@
       <geographicCoverage>
         <geographicDescription>Yuba River Rotary Screw Trap</geographicDescription>
         <boundingCoordinates>
-          <westBoundingCoordinate>-120.988</westBoundingCoordinate>
-          <eastBoundingCoordinate>-120.8699</eastBoundingCoordinate>
-          <northBoundingCoordinate>39.5506</northBoundingCoordinate>
-          <southBoundingCoordinate>39.5048</southBoundingCoordinate>
+          <westBoundingCoordinate>-121.5525</westBoundingCoordinate>
+          <eastBoundingCoordinate>-121.4254</eastBoundingCoordinate>
+          <northBoundingCoordinate>39.2112</northBoundingCoordinate>
+          <southBoundingCoordinate>39.1619</southBoundingCoordinate>
         </boundingCoordinates>
       </geographicCoverage>
       <temporalCoverage>
         <rangeOfDates>
           <beginDate>
-            <calendarDate>2022-10-17</calendarDate>
+            <calendarDate>1999-11-25</calendarDate>
           </beginDate>
           <endDate>
             <calendarDate>2023-07-26</calendarDate>
@@ -116,17 +130,97 @@
     </maintenance>
     <contact>
       <individualName>
-        <givenName>Jason</givenName>
-        <surName>Kindopp</surName>
+        <givenName>Casey</givenName>
+        <surName>Campos</surName>
       </individualName>
       <organizationName>California Department of Water Resources</organizationName>
-      <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
+      <electronicMailAddress>Casey.Campos@water.ca.gov</electronicMailAddress>
     </contact>
     <methods>
       <methodStep>
         <description>
           <para>
-    TO BE COMPLETED
+    Trap equipment
+  </para>
+          <para>
+    Two 8-foot rotary screw traps; one 5-foot RST (depending on
+    conditions)
+  </para>
+          <para>
+    Quantity = 3 (max)  
+  </para>
+          <para>
+    Current and historical trap locations
+  </para>
+          <para>
+    Hallwood Boulevard RST site at RM 7.5
+  </para>
+          <para>
+    Monitoring schedule
+  </para>
+          <para>
+    November-June
+  </para>
+          <para>
+    Continuously trapping except under high flows, high temperatures,
+    and unsafe working conditions
+  </para>
+          <para>
+    Serviced daily within a 24-hour period, more if needed due to high
+    debris amounts or fish catch
+  </para>
+          <para>
+    Daily environmental data
+  </para>
+          <para>
+    Daily environmental data collected are water temperature (Celsius),
+    turbidity (Nephelometric Turbidity Units), and weather.
+  </para>
+          <para>
+    Fish measurements
+  </para>
+          <para>
+    Fork length measurements to nearest mm taken for Chinook (50
+    randomly selected of each run type, run determined by Greene 1992
+    Length-at-Date chart), Steelhead (first 50), and non-salmonids (up
+    to 20).
+  </para>
+          <para>
+    Fish counts
+  </para>
+          <para>
+    All fish not measured are plus counted by hand. If juvenile salmon
+    are highly abundant (5,000+), a simple volume displacement method is
+    used to speed up processing. Efforts are made to ensure welfare of
+    fish is maintained during capture and handling; however, fish may be
+    affected by other pathogens and disease which may increase the
+    possibility of mortality.
+  </para>
+          <para>
+    Trap efficiency trials
+  </para>
+          <para>
+    Natural origin Chinook captured in RSTs are the primary source of
+    released fish. When the catch of wild emigrants is too low for
+    viable efficiency releases, Feather River Hatchery fish can be used
+    as surrogates. Once weekly (December-April) across variable flow and
+    environmental conditions as catch totals and/or availability of
+    hatchery surrogates allow. A minimum of 3 consecutive days of
+    fishing after the release date is required for a release to be
+    included in analysis. Mortality between the release point and the
+    trap is assumed to be negligible. Release site approximately 0.5
+    miles upstream of the trap site. Fish may be released by boat during
+    high flow conditions.
+  </para>
+          <para>
+    Trap efficiency mark rotation
+  </para>
+          <para>
+    Fish are marked with a colored Visible Implant Elastomer (VIE),
+    and/or a Bismarck brown Y (BBY) whole body stain. Elastomer colors
+    and/or marking locations on the fish are used to create unique
+    marks. A unique mark is not used again for 7 days to ensure release
+    groups of the same mark do not overlap.
   </para>
         </description>
       </methodStep>
@@ -135,11 +229,11 @@
       <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on Yuba River</title>
       <personnel>
         <individualName>
-          <givenName>Jason</givenName>
-          <surName>Kindopp</surName>
+          <givenName>Casey</givenName>
+          <surName>Campos</surName>
         </individualName>
         <organizationName>California Department of Water Resources</organizationName>
-        <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
+        <electronicMailAddress>Casey.Campos@water.ca.gov</electronicMailAddress>
         <role>Project Lead</role>
       </personnel>
     </project>
@@ -207,7 +301,7 @@
               <formatString>YYYY-MM-DD hh:mm:ss</formatString>
               <dateTimeDomain>
                 <bounds>
-                  <minimum exclusive="false">44851.5825</minimum>
+                  <minimum exclusive="false">36489</minimum>
                   <maximum exclusive="false">45133.4273</maximum>
                 </bounds>
               </dateTimeDomain>
@@ -343,20 +437,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>mort</attributeName>
-          <attributeLabel>catch</attributeLabel>
-          <attributeDefinition>Whether or not the fish was alive. Levels = c("No", "Yes")</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Whether or not the fish was alive. Levels = c("No", "Yes")</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>forkLength</attributeName>
           <attributeLabel>catch</attributeLabel>
           <attributeDefinition>Fork length of the fish measured in millimeters</attributeDefinition>
@@ -368,8 +448,8 @@
               <numericDomain>
                 <numberType>real</numberType>
                 <bounds>
-                  <minimum exclusive="false">11</minimum>
-                  <maximum exclusive="false">550</maximum>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">723</maximum>
                 </bounds>
               </numericDomain>
             </ratio>
@@ -407,7 +487,7 @@
                 <numberType>real</numberType>
                 <bounds>
                   <minimum exclusive="false">0</minimum>
-                  <maximum exclusive="false">195</maximum>
+                  <maximum exclusive="false">85007</maximum>
                 </bounds>
               </numericDomain>
             </ratio>
@@ -570,20 +650,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>mort</attributeName>
-          <attributeLabel>recapture</attributeLabel>
-          <attributeDefinition>Whether or not the fish was alive. Levels = c("No", "Yes")</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Whether or not the fish was alive. Levels = c("No", "Yes")</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>forkLength</attributeName>
           <attributeLabel>recapture</attributeLabel>
           <attributeDefinition>Fork length of the fish measured in millimeters</attributeDefinition>
@@ -638,15 +704,6 @@
                 </bounds>
               </numericDomain>
             </ratio>
-          </measurementScale>
-        </attribute>
-        <attribute>
-          <attributeName>actualCountID</attributeName>
-          <attributeDefinition>Code referring to whether the count (n) is an actual count or estimate. Levels = (1)</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain/>
-            </nominal>
           </measurementScale>
         </attribute>
         <attribute>
@@ -866,20 +923,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>markedLifeStage</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Lifestage of fish marked. Levels =  NA</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Lifestage of fish marked. Levels =  NA</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>markedFishOrigin</attributeName>
           <attributeLabel>release</attributeLabel>
           <attributeDefinition>Origin or production type of fish marked. Levels = c("Not applicable (n/a)", "Hatchery", "Natural")</attributeDefinition>
@@ -916,20 +959,6 @@
               <nonNumericDomain>
                 <textDomain>
                   <definition>Site where fish were released. Levels = c("Not applicable", "Hallwood Release Site")</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
-          <attributeName>releaseSubSite</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Subsite (within site) where fish were released. Corresponds to a trap location. Levels = NA</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Subsite (within site) where fish were released. Corresponds to a trap location. Levels = NA</definition>
                 </textDomain>
               </nonNumericDomain>
             </nominal>
@@ -1219,7 +1248,7 @@
                 <numberType>real</numberType>
                 <bounds>
                   <minimum exclusive="false">0</minimum>
-                  <maximum exclusive="false">7.8</maximum>
+                  <maximum exclusive="false">10.5</maximum>
                 </bounds>
               </numericDomain>
             </ratio>
@@ -1237,8 +1266,8 @@
               <numericDomain>
                 <numberType>real</numberType>
                 <bounds>
-                  <minimum exclusive="false">0.2</minimum>
-                  <maximum exclusive="false">7</maximum>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">1877</maximum>
                 </bounds>
               </numericDomain>
             </ratio>
@@ -1259,25 +1288,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>discharge</attributeName>
-          <attributeLabel>trap</attributeLabel>
-          <attributeDefinition>Discharge measured at trap</attributeDefinition>
-          <measurementScale>
-            <ratio>
-              <unit>
-                <standardUnit>cubicFeetPerSecond</standardUnit>
-              </unit>
-              <numericDomain>
-                <numberType>real</numberType>
-                <bounds>
-                  <minimum exclusive="false">0</minimum>
-                  <maximum exclusive="false">0</maximum>
-                </bounds>
-              </numericDomain>
-            </ratio>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>waterVel</attributeName>
           <attributeLabel>te</attributeLabel>
           <attributeDefinition>Water velocity measured at trap</attributeDefinition>
@@ -1289,8 +1299,8 @@
               <numericDomain>
                 <numberType>real</numberType>
                 <bounds>
-                  <minimum exclusive="false">NA</minimum>
-                  <maximum exclusive="false">NA</maximum>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">0.97</maximum>
                 </bounds>
               </numericDomain>
             </ratio>
@@ -1335,7 +1345,7 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>3893</numberOfRecords>
+      <numberOfRecords>3892</numberOfRecords>
     </dataTable>
   </dataset>
   <additionalMetadata>
