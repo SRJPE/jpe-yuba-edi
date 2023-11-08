@@ -4,14 +4,9 @@ library(googleCloudStorageR)
 
 
 # clean -------------------------------------------------------------------
-# TODO historic catch and trap (added in historic-data branch, need to confirm with RMT)
-# TODO keep mort in catch, recaptures? (remove)
-# TODO there is a record in trap with ProjectDescriptionID == 2 (remove)
-# TODO trap discharge, waterVel is all NA
-# TODO units for water velocity?
-# TODO run, totalLength, markCode are all NA for recaptures
-# TODO trap begins in 2023
-# TODO releases markedLifeStage, releaseSubSite all NA
+# notes
+# encoding for not applicable is not standard across columns (release table). kept as is to match CAMP encodings
+# kept in run, totalLength, markCode (recapture table) even though are NA
 
 # pull historic data
 
@@ -51,7 +46,7 @@ catch_format <- standard_catch |>
          lifeStage = lifestage,
          forkLength = fork_length,
          n = count) |>
-  select(-c(stream, site_group,dead,interpolated,run_method,weight, is_yearling))
+  select(-c(stream, dead,interpolated,run_method,weight, is_yearling))
 
 # standard environmental covariate data collected during RST monitoring
 gcs_get_object(object_name = "standard-format-data/standard_RST_environmental.csv",
@@ -74,9 +69,8 @@ standard_trap <- read_csv("data-raw/standard_trap.csv") |>
   filter(stream == "yuba river")
 
 trap_format <- standard_trap |>
-  mutate(visitTime = ymd_hms(paste0(trap_stop_date, " ", trap_stop_time))) |>
-  left_join(environmental_format) |>
-  mutate(
+  left_join(environmental_format, by = c("trap_stop_date" = "visitTime", "stream", "site", "subsite")) |>
+  mutate(visitTime = ymd_hms(paste0(trap_stop_date, " ", trap_stop_time)),
          visitType = str_to_sentence(visit_type),
          visitType = ifelse(visitType == "Start trapping", "Start trap & begin trapping", visitType),
          trapFunctioning = str_to_sentence(trap_functioning),
