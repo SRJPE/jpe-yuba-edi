@@ -30,7 +30,11 @@
       <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
+<<<<<<< HEAD:edi.1527.1.xml
     <pubDate>2023-11-08</pubDate>
+=======
+    <pubDate>2023-10-18</pubDate>
+>>>>>>> main:yuba.xml
     <abstract>
       <para>
     California Department of Water Resources (DWR) currently operates
@@ -42,12 +46,21 @@
     upstream of Hallwood Boulevard. Additionally, the Hallwood site is
     located downstream of the bulk of adult Chinook salmon spawning
     areas and downstream of all known spring-run Chinook salmon
+<<<<<<< HEAD:edi.1527.1.xml
     spawning. Data are currently being used to inform the development of
     a juvenile production estimate (JPE) for spring-run Chinook salmon
     in the Sacramento River Watershed as required by Incidental Take
     Permit No. 2081-2019-006-00 issued by CA Department of Fish and
     Wildlife (CDFW) to DWR for the long-term operation of the State
     Water Project.
+=======
+    spawning. Data from the DWR monitoring effort will be used to inform
+    the development of a juvenile production estimate (JPE) for
+    spring-run Chinook salmon in the Sacramento River Watershed as
+    required by Incidental Take Permit No. 2081-2019-006-00 issued by CA
+    Department of Fish and Wildlife (CDFW) to DWR for the long-term
+    operation of the State Water Project.
+>>>>>>> main:yuba.xml
   </para>
     </abstract>
     <keywordSet>
@@ -150,12 +163,22 @@
     Quantity = 3 (max)  
   </para>
           <para>
+<<<<<<< HEAD:edi.1527.1.xml
     Current and historical trap locations
+=======
+    Current trap locations
+>>>>>>> main:yuba.xml
   </para>
           <para>
     Hallwood Boulevard RST site at RM 7.5
   </para>
           <para>
+<<<<<<< HEAD:edi.1527.1.xml
+=======
+    Historical trap locations
+  </para>
+          <para>
+>>>>>>> main:yuba.xml
     Monitoring schedule
   </para>
           <para>
@@ -1300,7 +1323,11 @@
                 <numberType>real</numberType>
                 <bounds>
                   <minimum exclusive="false">0</minimum>
+<<<<<<< HEAD:edi.1527.1.xml
                   <maximum exclusive="false">0.97</maximum>
+=======
+                  <maximum exclusive="false">0</maximum>
+>>>>>>> main:yuba.xml
                 </bounds>
               </numericDomain>
             </ratio>
@@ -1345,7 +1372,11 @@
           </measurementScale>
         </attribute>
       </attributeList>
+<<<<<<< HEAD:edi.1527.1.xml
       <numberOfRecords>3892</numberOfRecords>
+=======
+      <numberOfRecords>629</numberOfRecords>
+>>>>>>> main:yuba.xml
     </dataTable>
   </dataset>
   <additionalMetadata>
