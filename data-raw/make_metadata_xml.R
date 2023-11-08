@@ -31,8 +31,8 @@ abstract_docx <- "data-raw/metadata/abstract.docx"
 methods_docx <- "data-raw/metadata/methods.docx"
 #methods_docx <- "data-raw/metadata/methods.md" # use md for bulleted formatting. I don't believe lists are allowed in methods (https://edirepository.org/news/news-20210430.00)
 
-# edi_number <- reserve_edi_id(user_id = Sys.getenv("EDI_USER_ID"), password = Sys.getenv("EDI_PASSWORD"))
-edi_number <- "edi.1527.1" # reserved 11-8-2023
+edi_number <- reserve_edi_id(user_id = Sys.getenv("edi_user_id"), Sys.getenv("edi_password"))
+edi_number <- "edi.1529.1" # reserved 11-8-2023
 
 dataset <- list() %>%
   add_pub_date() %>%
@@ -71,8 +71,8 @@ edi_number
 EML::write_eml(eml, paste0(edi_number, ".xml"))
 EML::eml_validate(paste0(edi_number, ".xml"))
 
-# EMLaide::evaluate_edi_package(Sys.getenv("user_ID"), Sys.getenv("password"), "edi.1047.1.xml")
-# EMLaide::upload_edi_package(Sys.getenv("user_ID"), Sys.getenv("password"), "edi.1047.1.xml")
+EMLaide::evaluate_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
+EMLaide::upload_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
 
 # The code below is for updating the eml number and will need to be implemented when
 # we move to automated updates
