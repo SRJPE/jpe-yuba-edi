@@ -98,37 +98,45 @@ trap_format <- standard_trap |>
 
 
 # catch (2022-onward)
-catch_recent <- read_xlsx(here::here("data-raw", "EDI Query - Catch Raw_2023.xlsx")) |>
-  mutate(releaseID = as.character(releaseID)) |>
-  select(-c(mort)) |>
+catch_recent <- read_xlsx(here::here("data-raw", "yuba_catch.xlsx")) |>
+  # TODO check with Casey about removing this field - are they sure they don't want to include it
+  #mutate(releaseID = as.character(releaseID)) |>
   bind_rows(catch_format)
-
+min(catch_recent$visitTime)
+max(catch_recent$visitTime)
 # trap (2023-onward)
-trap_recent <- read_xlsx(here::here("data-raw", "EDI Query- Trap Visit_2023.xlsx")) |>
+trap_recent <- read_xlsx(here::here("data-raw", "yuba_trap.xlsx")) |>
+  # TODO ask Casey to take care of these data cleaning in queries
   filter(projectDescriptionID == 7) |>
   select(-c(discharge)) |>
   bind_rows(trap_format) |>
   glimpse()
-
+min(trap_recent$visitTime)
+max(trap_recent$visitTime)
 # recaptures (2022-onward)
-recaptures <- read_xlsx(here::here("data-raw", "EDI Query- Recaptures_2023.xlsx")) |>
-  select(-c(mort, actualCountID)) |>
+recaptures <- read_xlsx(here::here("data-raw", "yuba_recapture.xlsx")) |>
   glimpse()
-
+min(recaptures$visitTime)
+max(recaptures$visitTime)
 # releases (2022-onward)
-releases <- read_xlsx(here::here("data-raw", "EDI Query- Releases_2023.xlsx")) |>
-  select(-c(releaseSubSite, markedLifeStage)) |>
+releases <- read_xlsx(here::here("data-raw", "yuba_release.xlsx")) |>
+  # TODO ask Casey to remove the db place holder field
+  filter(releaseID != 255) |>
+  # TODO check with Casey about removing this field
+  select(-c(releaseSubSite)) |>
   glimpse()
-
+min(releases$releaseTime, na.rm =T)
+max(releases$releaseTime, na.rm = T)
+filter(releases, is.na(releaseTime))
 # save --------------------------------------------------------------------
-write.csv(catch_recent, here::here("data", "yuba_catch_edi.csv"), row.names = FALSE)
-write.csv(trap_recent, here::here("data", "yuba_trap_edi.csv"), row.names = FALSE)
-write.csv(recaptures, here::here("data", "yuba_recapture_edi.csv"), row.names = FALSE)
-write.csv(releases, here::here("data", "yuba_release_edi.csv"), row.names = FALSE)
+write.csv(catch_recent, here::here("data", "yuba_catch.csv"), row.names = FALSE)
+write.csv(trap_recent, here::here("data", "yuba_trap.csv"), row.names = FALSE)
+write.csv(recaptures, here::here("data", "yuba_recapture.csv"), row.names = FALSE)
+write.csv(releases, here::here("data", "yuba_release.csv"), row.names = FALSE)
 
 # read in clean -----------------------------------------------------------
-read.csv(here::here("data", "yuba_catch_edi.csv")) |> glimpse()
-read.csv(here::here("data", "yuba_trap_edi.csv")) |> glimpse()
-read.csv(here::here("data", "yuba_recapture_edi.csv")) |> glimpse()
-read.csv(here::here("data", "yuba_release_edi.csv")) |> glimpse()
+read.csv(here::here("data", "yuba_catch.csv")) |> glimpse()
+read.csv(here::here("data", "yuba_trap.csv")) |> glimpse()
+read.csv(here::here("data", "yuba_recapture.csv")) |> glimpse()
+read.csv(here::here("data", "yuba_release.csv")) |> glimpse()
 
