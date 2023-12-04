@@ -41,12 +41,11 @@ catch_format <- standard_catch |>
          siteName = site,
          subSiteName = subsite,
          commonName = species,
-         releaseID = release_id,
          fishOrigin = adipose_clipped,
          lifeStage = lifestage,
          forkLength = fork_length,
          n = count) |>
-  select(-c(stream, dead,interpolated,run_method,weight, is_yearling))
+  select(-c(stream, dead,interpolated,run_method,weight, is_yearling, release_id))
 
 # standard environmental covariate data collected during RST monitoring
 gcs_get_object(object_name = "standard-format-data/standard_RST_environmental.csv",
