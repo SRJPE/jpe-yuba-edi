@@ -1,0 +1,60 @@
+"ProjectDescriptionID","catchRawID","trapVisitID","commonName","releaseID","run","fishOrigin","lifeStage","forkLength","n","visitTime","visitType","siteName","subSiteName","markType","markColor","markPosition","markCode"
+7,2009,118,"Chinook salmon",257,NA,"Hatchery","Not recorded",NA,1,2023-01-20 09:00:57,"Continue trapping","Hallwood","Hallwood 1 RR","Pigment / dye","Brown","Whole body",NA
+7,2343,129,"Chinook salmon",258,NA,"Hatchery","Not recorded",NA,15,2023-01-26 09:00:08,"Continue trapping","Hallwood","Hallwood 1 RR","Pigment / dye","Brown","Whole body",NA
+7,2361,130,"Chinook salmon",258,NA,"Hatchery","Not recorded",NA,8,2023-01-26 09:05:47,"Continue trapping","Hallwood","Hallwood 2 RL","Pigment / dye","Brown","Whole body",NA
+7,2961,150,"Chinook salmon",259,NA,"Hatchery","Not recorded",NA,15,2023-02-02 09:15:36,"Continue trapping","Hallwood","Hallwood 1 RR","Pigment / dye","Brown","Whole body",NA
+7,3015,151,"Chinook salmon",259,NA,"Hatchery","Not recorded",NA,10,2023-02-02 09:20:16,"Continue trapping","Hallwood","Hallwood 3","Pigment / dye","Brown","Whole body",NA
+7,3085,152,"Chinook salmon",259,NA,"Hatchery","Not recorded",NA,15,2023-02-02 09:30:35,"Continue trapping","Hallwood","Hallwood 2 RL","Pigment / dye","Brown","Whole body",NA
+7,3128,153,"Chinook salmon",259,NA,"Hatchery","Not recorded",NA,3,2023-02-03 09:30:32,"Continue trapping","Hallwood","Hallwood 1 RR","Pigment / dye","Brown","Whole body",NA
+7,3187,154,"Chinook salmon",259,NA,"Hatchery","Not recorded",NA,18,2023-02-03 09:40:12,"Continue trapping","Hallwood","Hallwood 2 RL","Pigment / dye","Brown","Whole body",NA
+7,3938,170,"Chinook salmon",260,NA,"Natural","Not recorded",NA,11,2023-02-10 09:15:00,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Yellow","Nose",NA
+7,4119,174,"Chinook salmon",260,NA,"Natural","Not recorded",NA,2,2023-02-10 09:25:44,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Yellow","Nose",NA
+7,4383,181,"Chinook salmon",260,NA,"Natural","Not recorded",NA,10,2023-02-10 09:00:41,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Yellow","Nose",NA
+7,4916,195,"Chinook salmon",261,NA,"Natural","Not recorded",NA,2,2023-02-17 10:45:23,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Yellow","Nose",NA
+7,5428,214,"Chinook salmon",262,NA,"Natural","Not recorded",NA,37,2023-02-24 11:28:02,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,5429,214,"Chinook salmon",263,NA,"Natural","Not recorded",NA,1,2023-02-24 11:28:02,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Yellow","Nose",NA
+7,5456,215,"Chinook salmon",262,NA,"Hatchery","Not recorded",NA,3,2023-02-25 09:47:15,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,5457,215,"Chinook salmon",263,NA,"Natural","Not recorded",NA,1,2023-02-25 09:47:15,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Yellow","Nose",NA
+7,5543,218,"Chinook salmon",262,NA,"Hatchery","Not recorded",NA,8,2023-02-24 10:50:59,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,5858,225,"Chinook salmon",264,NA,"Natural","Not recorded",NA,2,2023-03-03 10:30:34,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Yellow","Nose",NA
+7,6025,230,"Chinook salmon",262,NA,"Hatchery","Not recorded",NA,14,2023-02-24 11:00:14,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,6026,230,"Chinook salmon",263,NA,"Natural","Not recorded",NA,1,2023-02-24 11:00:14,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Yellow","Nose",NA
+7,6044,231,"Chinook salmon",262,NA,"Hatchery","Not recorded",NA,2,2023-02-25 09:45:39,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,6045,231,"Chinook salmon",263,NA,"Natural","Not recorded",NA,1,2023-02-25 09:45:39,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Yellow","Nose",NA
+7,6097,233,"Chinook salmon",262,NA,"Hatchery","Not recorded",NA,1,2023-02-27 10:15:22,"Unplanned restart","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,6260,237,"Chinook salmon",264,NA,"Natural","Not recorded",NA,14,2023-03-03 10:00:06,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Yellow","Nose",NA
+7,6489,241,"Chinook salmon",264,NA,"Natural","Not recorded",NA,7,2023-03-03 10:10:17,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Yellow","Nose",NA
+7,6816,248,"Chinook salmon",266,NA,"Natural","Not recorded",NA,1,2023-03-10 09:20:56,"End trapping","Hallwood","Hallwood 1 RR","Elastomer","Yellow","Nose",NA
+7,7195,263,"Chinook salmon",266,NA,"Natural","Not recorded",NA,1,2023-03-09 09:50:48,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Yellow","Nose",NA
+7,7253,264,"Chinook salmon",266,NA,"Natural","Not recorded",NA,1,2023-03-10 09:40:50,"End trapping","Hallwood","Hallwood 2 RL","Elastomer","Yellow","Nose",NA
+7,7553,295,"Chinook salmon",267,NA,"Hatchery","Not recorded",NA,3,2023-03-24 09:10:17,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,7815,307,"Chinook salmon",267,NA,"Hatchery","Not recorded",NA,1,2023-03-24 08:50:51,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,8041,314,"Chinook salmon",268,NA,"Hatchery","Not recorded",NA,5,2023-03-31 09:20:59,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,8221,334,"Chinook salmon",268,NA,"Hatchery","Not recorded",NA,1,2023-04-04 08:50:36,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,8264,339,"Chinook salmon",269,NA,"Hatchery","Not recorded",NA,4,2023-04-07 09:10:44,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,8371,349,"Chinook salmon",269,NA,"Hatchery","Not recorded",NA,1,2023-04-11 09:52:07,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,8372,349,"Chinook salmon",269,NA,"Hatchery","Not recorded",NA,1,2023-04-11 09:52:07,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,8452,363,"Chinook salmon",270,NA,"Hatchery","Not recorded",NA,3,2023-04-14 11:04:56,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,8456,364,"Chinook salmon",270,NA,"Hatchery","Not recorded",NA,1,2023-04-15 09:05:25,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,8457,360,"Chinook salmon",270,NA,"Hatchery","Not recorded",NA,26,2023-04-14 11:20:29,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,8477,368,"Chinook salmon",270,NA,"Hatchery","Not recorded",NA,1,2023-04-16 10:05:00,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,8570,373,"Chinook salmon",271,NA,"Hatchery","Not recorded",NA,3,2023-04-21 08:58:14,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,8583,376,"Chinook salmon",270,NA,"Hatchery","Not recorded",NA,1,2023-04-18 10:40:50,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,8641,383,"Chinook salmon",270,NA,"Hatchery","Not recorded",NA,1,2023-04-19 10:02:42,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,8666,384,"Chinook salmon",270,NA,"Natural","Not recorded",NA,1,2023-04-20 10:50:41,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,8693,385,"Chinook salmon",271,NA,"Hatchery","Not recorded",NA,12,2023-04-21 08:53:40,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,8782,390,"Chinook salmon",271,NA,"Hatchery","Not recorded",NA,1,2023-04-22 09:32:02,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,8811,391,"Chinook salmon",271,NA,"Hatchery","Not recorded",NA,2,2023-04-23 09:52:25,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,8880,395,"Chinook salmon",272,NA,"Hatchery","Not recorded",NA,2,2023-04-28 09:45:40,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,8909,399,"Chinook salmon",271,NA,"Hatchery","Not recorded",NA,1,2023-04-25 08:48:52,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,8926,401,"Chinook salmon",272,NA,"Hatchery","Not recorded",NA,5,2023-04-28 10:06:10,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,8938,403,"Chinook salmon",272,NA,"Hatchery","Not recorded",NA,1,2023-04-30 10:03:33,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,9015,407,"Chinook salmon",272,NA,"Hatchery","Not recorded",NA,3,2023-04-28 09:30:26,"Continue trapping","Hallwood","Hallwood 3","Elastomer","Pink","Nose",NA
+7,9158,421,"Chinook salmon",272,NA,"Hatchery","Silvery parr",74,1,2023-05-03 12:38:20,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,9159,415,"Chinook salmon",273,NA,"Hatchery","Not recorded",NA,3,2023-05-05 09:30:31,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,9304,434,"Chinook salmon",274,NA,"Hatchery","Not recorded",NA,1,2023-05-12 08:52:57,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,10000,247,"Chinook salmon",265,NA,"Hatchery","Not recorded",NA,1,2023-03-09 09:30:24,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,10001,218,"Chinook salmon",263,NA,"Natural","Not recorded",NA,1,2023-02-24 10:50:59,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Yellow","Nose",NA
+7,10002,379,"Chinook salmon",271,NA,"Hatchery","Not recorded",NA,1,2023-04-21 09:13:51,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA
+7,10663,434,"Chinook salmon",274,NA,"Hatchery","Not recorded",NA,1,2023-05-12 08:52:57,"Continue trapping","Hallwood","Hallwood 1 RR","Elastomer","Pink","Nose",NA
+7,11654,422,"Chinook salmon",273,NA,"Natural","Parr",38,1,2023-05-05 10:18:19,"Continue trapping","Hallwood","Hallwood 2 RL","Elastomer","Pink","Nose",NA

@@ -4,10 +4,10 @@ library(readxl)
 library(EML)
 
 datatable_metadata <-
-  dplyr::tibble(filepath = c("data/yuba_catch_edi.csv",
-                             "data/yuba_recapture_edi.csv",
-                             "data/yuba_release_edi.csv",
-                             "data/yuba_trap_edi.csv"),
+  dplyr::tibble(filepath = c("data/yuba_catch.csv",
+                             "data/yuba_recapture.csv",
+                             "data/yuba_release.csv",
+                             "data/yuba_trap.csv"),
                 attribute_info = c("data-raw/metadata/yuba_catch_metadata.xlsx",
                                    "data-raw/metadata/yuba_recapture_metadata.xlsx",
                                    "data-raw/metadata/yuba_release_metadata.xlsx",
@@ -17,10 +17,10 @@ datatable_metadata <-
                                           "Release trial",
                                           "Daily trap operations"),
                 datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/",
-                                       c("yuba_catch_edi.csv",
-                                         "yuba_recapture_edi.csv",
-                                         "yuba_release_edi.csv",
-                                         "yuba_trap_edi.csv")))
+                                       c("yuba_catch.csv",
+                                         "yuba_recapture.csv",
+                                         "yuba_release.csv",
+                                         "yuba_trap.csv")))
 # save cleaned data to `data/`
 excel_path <- "data-raw/metadata/yuba_metadata.xlsx"
 sheets <- readxl::excel_sheets(excel_path)
@@ -31,8 +31,8 @@ abstract_docx <- "data-raw/metadata/abstract.docx"
 methods_docx <- "data-raw/metadata/methods.docx"
 #methods_docx <- "data-raw/metadata/methods.md" # use md for bulleted formatting. I don't believe lists are allowed in methods (https://edirepository.org/news/news-20210430.00)
 
-edi_number <- reserve_edi_id(user_id = Sys.getenv("edi_user_id"), Sys.getenv("edi_password"))
-edi_number <- "edi.1529.1" # reserved 11-8-2023
+#edi_number <- reserve_edi_id(user_id = Sys.getenv("edi_user_id"), Sys.getenv("edi_password"))
+edi_number <- "edi.1529.2" # reserved 11-8-2023
 
 dataset <- list() %>%
   add_pub_date() %>%
@@ -67,12 +67,13 @@ eml <- list(packageId = edi_number,
             dataset = dataset,
             additionalMetadata = list(metadata = list(unitList = unitList))
 )
-edi_number
+
 EML::write_eml(eml, paste0(edi_number, ".xml"))
 EML::eml_validate(paste0(edi_number, ".xml"))
 
-EMLaide::evaluate_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
-EMLaide::upload_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
+EMLaide::evaluate_edi_package(Sys.getenv("EDI_USER_ID"), Sys.getenv("EDI_PASSWORD"), paste0(edi_number, ".xml"))
+
+#EMLaide::upload_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
 
 # The code below is for updating the eml number and will need to be implemented when
 # we move to automated updates
