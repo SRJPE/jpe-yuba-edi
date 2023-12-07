@@ -39,7 +39,7 @@
       <electronicMailAddress>duane.massa@hdrinc.com</electronicMailAddress>
       <role>associate</role>
     </associatedParty>
-    <pubDate>2023-12-05</pubDate>
+    <pubDate>2023-12-07</pubDate>
     <abstract>
       <para>
     California Department of Water Resources (DWR) currently operates
@@ -148,90 +148,83 @@
     <methods>
       <methodStep>
         <description>
-          <para>
-    Trap equipment
-  </para>
-          <para>
-    Two 8-foot rotary screw traps; one 5-foot RST (depending on
-    conditions)
-  </para>
-          <para>
-    Quantity = 3 (max)  
-  </para>
-          <para>
-    Current and historical trap locations
-  </para>
-          <para>
-    Hallwood Boulevard RST site at RM 7.5
-  </para>
-          <para>
-    Monitoring schedule
-  </para>
-          <para>
-    November-June
-  </para>
-          <para>
-    Continuously trapping except under high flows, high temperatures,
-    and unsafe working conditions
-  </para>
-          <para>
-    Serviced daily within a 24-hour period, more if needed due to high
-    debris amounts or fish catch
-  </para>
-          <para>
-    Daily environmental data
-  </para>
-          <para>
-    Daily environmental data collected are water temperature (Celsius),
-    turbidity (Nephelometric Turbidity Units), and weather.
-  </para>
-          <para>
-    Fish measurements
-  </para>
-          <para>
-    Fork length measurements to nearest mm taken for Chinook (50
-    randomly selected of each run type, run determined by Greene 1992
-    Length-at-Date chart), Steelhead (first 50), and non-salmonids (up
-    to 20).
-  </para>
-          <para>
-    Fish counts
-  </para>
-          <para>
-    All fish not measured are plus counted by hand. If juvenile salmon
-    are highly abundant (5,000+), a simple volume displacement method is
-    used to speed up processing. Efforts are made to ensure welfare of
-    fish is maintained during capture and handling; however, fish may be
-    affected by other pathogens and disease which may increase the
-    possibility of mortality. Run assignments in the historical data may
-    be inconsistent with contemporary methods for assigning run.
-  </para>
-          <para>
-    Trap efficiency trials
-  </para>
-          <para>
-    Natural origin Chinook captured in RSTs are the primary source of
-    released fish. When the catch of wild emigrants is too low for
-    viable efficiency releases, Feather River Hatchery fish can be used
-    as surrogates. Once weekly (December-April) across variable flow and
-    environmental conditions as catch totals and/or availability of
-    hatchery surrogates allow. A minimum of 3 consecutive days of
-    fishing after the release date is required for a release to be
-    included in analysis. Mortality between the release point and the
-    trap is assumed to be negligible. Release site approximately 0.5
-    miles upstream of the trap site. Fish may be released by boat during
-    high flow conditions.
-  </para>
-          <para>
-    Trap efficiency mark rotation
-  </para>
-          <para>
-    Fish are marked with a colored Visible Implant Elastomer (VIE),
-    and/or a Bismarck brown Y (BBY) whole body stain. Elastomer colors
-    and/or marking locations on the fish are used to create unique
-    marks. A unique mark is not used again for 7 days to ensure release
-    groups of the same mark do not overlap.
-  </para>
+          <section>
+            <title>Trap equipment</title>
+            <para>
+      Two 8-foot rotary screw traps; one 5-foot RST (depending on
+      conditions) Quantity = 3 (max)
+    </para>
+          </section>
+          <section>
+            <title>Current and historical trap locations</title>
+            <para>
+      Hallwood Boulevard RST site at RM 7.5
+    </para>
+          </section>
+          <section>
+            <title>Monitoring schedule</title>
+            <para>
+      November-June Continuously trapping except under high flows, high
+      temperatures, and unsafe working conditions Serviced daily within
+      a 24-hour period, more if needed due to high debris amounts or
+      fish catch
+    </para>
+          </section>
+          <section>
+            <title>Daily environmental data</title>
+            <para>
+      Daily environmental data collected are water temperature
+      (Celsius), turbidity (Nephelometric Turbidity Units), and weather.
+    </para>
+          </section>
+          <section>
+            <title>Fish measurements</title>
+            <para>
+      Fork length measurements to nearest mm taken for Chinook (50
+      randomly selected of each run type, run determined by Greene 1992
+      Length-at-Date chart), Steelhead (first 50), and non-salmonids (up
+      to 20).
+    </para>
+          </section>
+          <section>
+            <title>Fish counts</title>
+            <para>
+      All fish not measured are plus counted by hand. If juvenile salmon
+      are highly abundant (5,000+), a simple volume displacement method
+      is used to speed up processing. Efforts are made to ensure welfare
+      of fish is maintained during capture and handling; however, fish
+      may be affected by other pathogens and disease which may increase
+      the possibility of mortality. Run assignments in the historical
+      data may be inconsistent with contemporary methods for assigning
+      run.
+    </para>
+          </section>
+          <section>
+            <title>Trap efficiency trials</title>
+            <para>
+      Natural origin Chinook captured in RSTs are the primary source of
+      released fish. When the catch of wild emigrants is too low for
+      viable efficiency releases, Feather River Hatchery fish can be
+      used as surrogates. Once weekly (December-April) across variable
+      flow and environmental conditions as catch totals and/or
+      availability of hatchery surrogates allow. A minimum of 3
+      consecutive days of fishing after the release date is required for
+      a release to be included in analysis. Mortality between the
+      release point and the trap is assumed to be negligible. Release
+      site approximately 0.5 miles upstream of the trap site. Fish may
+      be released by boat during high flow conditions.
+    </para>
+          </section>
+          <section>
+            <title>Trap efficiency mark rotation</title>
+            <para>
+      Fish are marked with a colored Visible Implant Elastomer (VIE),
+      and/or a Bismarck brown Y (BBY) whole body stain. Elastomer colors
+      and/or marking locations on the fish are used to create unique
+      marks. A unique mark is not used again for 7 days to ensure
+      release groups of the same mark do not overlap.
+    </para>
+          </section>
         </description>
       </methodStep>
     </methods>
@@ -252,8 +245,8 @@
       <entityDescription>Daily catch</entityDescription>
       <physical>
         <objectName>yuba_catch.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">13802388</size>
+        <authentication method="MD5">625610609c51636841bcb675ca36b4ca</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -511,8 +504,8 @@
       <entityDescription>Recaptured catch</entityDescription>
       <physical>
         <objectName>yuba_recapture.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">9833</size>
+        <authentication method="MD5">3190c72d51cfa26e4bec3246a8c82c16</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -805,8 +798,8 @@
       <entityDescription>Release trial</entityDescription>
       <physical>
         <objectName>yuba_release.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">2811</size>
+        <authentication method="MD5">46f6359e01dc6c1bd355915930399939</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1057,8 +1050,8 @@
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
         <objectName>yuba_trap.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">679674</size>
+        <authentication method="MD5">c62dd4fcf2b6277038f2d3fd1a429012</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
