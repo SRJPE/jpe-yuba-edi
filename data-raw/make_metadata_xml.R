@@ -28,9 +28,13 @@ metadata <- lapply(sheets, function(x) readxl::read_excel(excel_path, sheet = x)
 names(metadata) <- sheets
 
 abstract_docx <- "data-raw/metadata/abstract.docx"
+<<<<<<< HEAD
 methods_docx <- "data-raw/metadata/methods.md"
 #methods_docx <- "data-raw/metadata/methods.md" # use md for bulleted formatting. I don't believe lists are allowed in methods (https://edirepository.org/news/news-20210430.00)
 #update metadata
+=======
+methods_docx <- "data-raw/metadata/methods.docx"
+>>>>>>> d73979e (fixing data conflict)
 catch_df <- readr::read_csv("data/yuba_catch.csv")
 catch_coverage <- tail(catch_df$visitTime, 1)
 metadata$coverage$end_date <- lubridate::floor_date(catch_coverage, unit = "days")
@@ -41,8 +45,6 @@ for (sheet_name in names(metadata)) {
   openxlsx::writeData(wb, sheet = sheet_name, x = metadata[[sheet_name]], rowNames = FALSE)
 }
 openxlsx::saveWorkbook(wb, file = excel_path, overwrite=TRUE)
-# edi_number <- reserve_id(user_id = Sys.getenv("edi_user_id"), Sys.getenv("edi_password"))
-# edi_number <- "edi.1529.1" # reserved 11-8-2023
 
 vl <- readr::read_csv("data-raw/version_log.csv", col_types = c('c', "D"))
 previous_number <- tail(vl['edi_version'], n=1)
@@ -114,6 +116,7 @@ EMLaide::update_package(user_id = secret_username,
                             eml_file_path = paste0(getwd(), "/", current_number, ".xml"),
                             existing_package_identifier = paste0("edi.",previous_id, ".", previous_ver, ".xml"),
                             environment = "staging")
+<<<<<<< HEAD
 # EML::eml_validate(paste0(edi_number, ".xml"))
 
 # EMLaide::evaluate_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
@@ -146,3 +149,5 @@ EMLaide::update_package(user_id = secret_username,
 # }
 #
 # preview_coverage(dataset)
+=======
+>>>>>>> d73979e (fixing data conflict)
