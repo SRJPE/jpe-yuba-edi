@@ -30,9 +30,35 @@ names(metadata) <- sheets
 abstract_docx <- "data-raw/metadata/abstract.docx"
 methods_docx <- "data-raw/metadata/methods.md"
 #methods_docx <- "data-raw/metadata/methods.md" # use md for bulleted formatting. I don't believe lists are allowed in methods (https://edirepository.org/news/news-20210430.00)
+#update metadata
+catch_df <- readr::read_csv("data/yuba_catch.csv")
+catch_coverage <- tail(catch_df$visitTime, 1)
+metadata$coverage$end_date <- lubridate::floor_date(catch_coverage, unit = "days")
 
-#edi_number <- reserve_edi_id(user_id = Sys.getenv("edi_user_id"), Sys.getenv("edi_password"))
-edi_number <- "edi.1529.2" # reserved 11-8-2023
+wb <- openxlsx::createWorkbook()
+for (sheet_name in names(metadata)) {
+  openxlsx::addWorksheet(wb, sheetName = sheet_name)
+  openxlsx::writeData(wb, sheet = sheet_name, x = metadata[[sheet_name]], rowNames = FALSE)
+}
+openxlsx::saveWorkbook(wb, file = excel_path, overwrite=TRUE)
+# edi_number <- reserve_id(user_id = Sys.getenv("edi_user_id"), Sys.getenv("edi_password"))
+# edi_number <- "edi.1529.1" # reserved 11-8-2023
+
+vl <- readr::read_csv("data-raw/version_log.csv", col_types = c('c', "D"))
+previous_number <- tail(vl['edi_version'], n=1)
+previous_number <- previous_number$edi_version
+previous_ver <- as.numeric(stringr::str_extract(previous_number, "[^.]*$"))
+current_ver <- as.character(previous_ver + 1)
+previous_id_list <- stringr::str_split(previous_number, "\\.")
+previous_id <- sapply(previous_id_list, '[[', 2)
+current_number <- paste0("edi.", previous_id, ".", current_ver)
+
+new_row <- data.frame(
+    edi_version = current_number,
+    date = as.character(Sys.Date())
+)
+vl <- bind_rows(vl, new_row)
+write.csv(vl, "data-raw/version_log.csv", row.names=FALSE)
 
 dataset <- list() %>%
   add_pub_date() %>%
@@ -67,6 +93,7 @@ eml <- list(packageId = edi_number,
             dataset = dataset,
             additionalMetadata = list(metadata = list(unitList = unitList))
 )
+<<<<<<< HEAD
 
 EML::write_eml(eml, paste0(edi_number, ".xml"))
 EML::eml_validate(paste0(edi_number, ".xml"))
@@ -78,6 +105,20 @@ EMLaide::evaluate_edi_package(Sys.getenv("EDI_USER_ID"), Sys.getenv("EDI_PASSWOR
 #                             eml_file_path = paste0(getwd(), "/", edi_number, ".xml"),
 #                             existing_package_identifier = paste0("edi.1529.1.xml"),
 #                             environment = "production")
+=======
+# edi_number
+EML::write_eml(eml, paste0(edi_number, ".xml"))
+message("EML Metadata generated")
+EMLaide::update_package(user_id = secret_username,
+                            password = secret_password,
+                            eml_file_path = paste0(getwd(), "/", current_number, ".xml"),
+                            existing_package_identifier = paste0("edi.",previous_id, ".", previous_ver, ".xml"),
+                            environment = "staging")
+# EML::eml_validate(paste0(edi_number, ".xml"))
+
+# EMLaide::evaluate_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
+# EMLaide::upload_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
+>>>>>>> aed9b15 (added git action)
 
 # The code below is for updating the eml number and will need to be implemented when
 # we move to automated updates
