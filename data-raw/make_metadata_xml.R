@@ -28,13 +28,8 @@ metadata <- lapply(sheets, function(x) readxl::read_excel(excel_path, sheet = x)
 names(metadata) <- sheets
 
 abstract_docx <- "data-raw/metadata/abstract.docx"
-<<<<<<< HEAD
 methods_docx <- "data-raw/metadata/methods.md"
-#methods_docx <- "data-raw/metadata/methods.md" # use md for bulleted formatting. I don't believe lists are allowed in methods (https://edirepository.org/news/news-20210430.00)
-#update metadata
-=======
 methods_docx <- "data-raw/metadata/methods.docx"
->>>>>>> d73979e (fixing data conflict)
 catch_df <- readr::read_csv("data/yuba_catch.csv")
 catch_coverage <- tail(catch_df$visitTime, 1)
 metadata$coverage$end_date <- lubridate::floor_date(catch_coverage, unit = "days")
@@ -95,20 +90,7 @@ eml <- list(packageId = edi_number,
             dataset = dataset,
             additionalMetadata = list(metadata = list(unitList = unitList))
 )
-<<<<<<< HEAD
 
-EML::write_eml(eml, paste0(edi_number, ".xml"))
-EML::eml_validate(paste0(edi_number, ".xml"))
-
-EMLaide::evaluate_edi_package(Sys.getenv("EDI_USER_ID"), Sys.getenv("EDI_PASSWORD"), paste0(edi_number, ".xml"))
-#
-# EMLaide::update_edi_package(user_id = Sys.getenv("EDI_USER_ID"),
-#                             password = Sys.getenv("EDI_PASSWORD"),
-#                             eml_file_path = paste0(getwd(), "/", edi_number, ".xml"),
-#                             existing_package_identifier = paste0("edi.1529.1.xml"),
-#                             environment = "production")
-=======
-# edi_number
 EML::write_eml(eml, paste0(edi_number, ".xml"))
 message("EML Metadata generated")
 EMLaide::update_package(user_id = secret_username,
@@ -116,38 +98,3 @@ EMLaide::update_package(user_id = secret_username,
                             eml_file_path = paste0(getwd(), "/", current_number, ".xml"),
                             existing_package_identifier = paste0("edi.",previous_id, ".", previous_ver, ".xml"),
                             environment = "staging")
-<<<<<<< HEAD
-# EML::eml_validate(paste0(edi_number, ".xml"))
-
-# EMLaide::evaluate_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
-# EMLaide::upload_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
->>>>>>> aed9b15 (added git action)
-
-# The code below is for updating the eml number and will need to be implemented when
-# we move to automated updates
-# doc <- read_xml(paste0(edi_number, ".xml"))
-# edi_number<- data.frame(edi_number = doc %>% xml_attr("packageId"))
-# update_number <- edi_number %>%
-#   separate(edi_number, c("edi","package","version"), "\\.") %>%
-#   mutate(version = as.numeric(version) + 1)
-# edi_number <- paste0(update_number$edi, ".", update_number$package, ".", update_number$version)
-
-# preview_coverage <- function(dataset) {
-#   coords <- dataset$coverage$geographicCoverage$boundingCoordinates
-#   north <- coords$northBoundingCoordinate
-#   south <- coords$southBoundingCoordinate
-#   east <- coords$eastBoundingCoordinate
-#   west <- coords$westBoundingCoordinate
-#
-#   leaflet::leaflet() |>
-#     leaflet::addTiles() |>
-#     leaflet::addRectangles(
-#       lng1 = west, lat1 = south,
-#       lng2 = east, lat2 = north,
-#       fillColor = "blue"
-#     )
-# }
-#
-# preview_coverage(dataset)
-=======
->>>>>>> d73979e (fixing data conflict)
