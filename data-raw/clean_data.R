@@ -9,7 +9,6 @@ library(googleCloudStorageR)
 # kept in run, totalLength, markCode (recapture table) even though are NA
 
 # pull historic data
-
 gcs_auth(json_file = Sys.getenv("GCS_AUTH_FILE"))
 gcs_global_bucket(bucket = Sys.getenv("GCS_DEFAULT_BUCKET"))
 
@@ -45,7 +44,7 @@ catch_format <- standard_catch |>
          lifeStage = lifestage,
          forkLength = fork_length,
          n = count) |>
-  select(-c(stream, dead,interpolated,run_method,weight, is_yearling, release_id))
+  select(-c(stream, dead,interpolated,run_method,weight, is_yearling))
 
 # standard environmental covariate data collected during RST monitoring
 gcs_get_object(object_name = "standard-format-data/standard_RST_environmental.csv",
@@ -91,7 +90,7 @@ trap_format <- standard_trap |>
             trap_start_time, trap_stop_date, trap_stop_time, visit_type, trap_functioning,
             fish_processed, gear_type, in_thalweg, partial_sample, is_half_cone_configuration,
             depth_adjust, debris_volume, debris_level, counter_start, time, sample_period_revolutions,
-            include, comments))
+            include, comments, waterVel))
 
 
 
@@ -128,14 +127,14 @@ min(releases$releaseTime, na.rm =T)
 max(releases$releaseTime, na.rm = T)
 filter(releases, is.na(releaseTime))
 # save --------------------------------------------------------------------
-write.csv(catch_recent, here::here("data", "yuba_catch.csv"), row.names = FALSE)
-write.csv(trap_recent, here::here("data", "yuba_trap.csv"), row.names = FALSE)
-write.csv(recaptures, here::here("data", "yuba_recapture.csv"), row.names = FALSE)
-write.csv(releases, here::here("data", "yuba_release.csv"), row.names = FALSE)
+write.csv(catch_recent, here::here("data/historic_data", "yuba_catch.csv"), row.names = FALSE)
+write.csv(trap_recent, here::here("data/historic_data", "yuba_trap.csv"), row.names = FALSE)
+write.csv(recaptures, here::here("data/historic_data", "yuba_recapture.csv"), row.names = FALSE)
+write.csv(releases, here::here("data/historic_data", "yuba_release.csv"), row.names = FALSE)
 
 # read in clean -----------------------------------------------------------
-read.csv(here::here("data", "yuba_catch.csv")) |> glimpse()
-read.csv(here::here("data", "yuba_trap.csv")) |> glimpse()
-read.csv(here::here("data", "yuba_recapture.csv")) |> glimpse()
-read.csv(here::here("data", "yuba_release.csv")) |> glimpse()
+read.csv(here::here("data/historic_data", "yuba_catch.csv")) |> glimpse()
+read.csv(here::here("data/historic_data", "yuba_trap.csv")) |> glimpse()
+read.csv(here::here("data/historic_data", "yuba_recapture.csv")) |> glimpse()
+read.csv(here::here("data/historic_data", "yuba_release.csv")) |> glimpse()
 
