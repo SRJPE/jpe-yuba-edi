@@ -93,7 +93,7 @@ eml <- list(packageId = edi_number,
 
 EML::write_eml(eml, paste0(edi_number, ".xml"))
 message("EML Metadata generated")
-EMLaide::update_package(user_id = secret_username,
+EMLaide::upload_edi_package(user_id = secret_username,
                             password = secret_password,
                             eml_file_path = paste0(getwd(), "/", current_number, ".xml"),
                             existing_package_identifier = paste0("edi.",previous_id, ".", previous_ver, ".xml"),
