@@ -43,6 +43,15 @@ jobs:
       - name: Check workspace
         run: |
           echo ${{ github.workspace }}
+      - name: Run bind historic data
+        run: |
+          source('data-raw/bind_historic_data.R')
+        shell: Rscript {0}
+      - name: Push to main
+        run: |
+          git add .
+          git commit -m "bind historic data"
+          git push
       - name: Run create xml
         env:
           EDI_USERNAME: ${{ secrets.EDI_USERNAME }}
