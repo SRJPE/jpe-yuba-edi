@@ -43,8 +43,11 @@ catch_format <- standard_catch |>
          fishOrigin = adipose_clipped,
          lifeStage = lifestage,
          forkLength = fork_length,
-         n = count) |>
-  select(-c(stream, dead,interpolated,run_method,weight, is_yearling))
+         n = count,
+         releaseID = release_id) |>
+  select(-c(stream, dead,interpolated,run_method,weight, is_yearling, site_group)) |>
+  mutate(releaseID = as.numeric(releaseID))
+
 
 # standard environmental covariate data collected during RST monitoring
 gcs_get_object(object_name = "standard-format-data/standard_RST_environmental.csv",
@@ -84,13 +87,12 @@ trap_format <- standard_trap |>
          rpmRevolutionsAtStart = rpms_start,
          rpmRevolutionsAtEnd = rpms_end,
          counterAtEnd = counter_end,
-         waterTemp = temperature,
-         waterVel = velocity) |>
+         waterTemp = temperature) |>
   select(-c(trap_visit_id, stream, trap_visit_date, trap_visit_time, trap_start_date,
             trap_start_time, trap_stop_date, trap_stop_time, visit_type, trap_functioning,
             fish_processed, gear_type, in_thalweg, partial_sample, is_half_cone_configuration,
             depth_adjust, debris_volume, debris_level, counter_start, time, sample_period_revolutions,
-            include, comments, waterVel))
+            include, comments, velocity, discharge))
 
 
 
@@ -98,7 +100,7 @@ trap_format <- standard_trap |>
 # catch (2022-onward)
 catch_recent <- read_xlsx(here::here("data-raw", "yuba_catch.xlsx")) |>
   # TODO check with Casey about removing this field - are they sure they don't want to include it
-  #mutate(releaseID = as.character(releaseID)) |>
+  # mutate(releaseID = as.character(releaseID)) |>
   bind_rows(catch_format)
 min(catch_recent$visitTime)
 max(catch_recent$visitTime)
@@ -121,13 +123,13 @@ releases <- read_xlsx(here::here("data-raw", "yuba_release.xlsx")) |>
   # TODO ask Casey to remove the db place holder field
   filter(releaseID != 255) |>
   # TODO check with Casey about removing this field
-  select(-c(releaseSubSite)) |>
+  # select(-c(releaseSubSite)) |>
   glimpse()
 min(releases$releaseTime, na.rm =T)
 max(releases$releaseTime, na.rm = T)
 filter(releases, is.na(releaseTime))
 # save --------------------------------------------------------------------
-write.csv(catch_recent, here::here("data/historic_data", "yuba_catch.csv"), row.names = FALSE)
+write.csv(catch_format, here::here("data/historic_data", "yuba_catch.csv"), row.names = FALSE)
 write.csv(trap_recent, here::here("data/historic_data", "yuba_trap.csv"), row.names = FALSE)
 write.csv(recaptures, here::here("data/historic_data", "yuba_recapture.csv"), row.names = FALSE)
 write.csv(releases, here::here("data/historic_data", "yuba_release.csv"), row.names = FALSE)
