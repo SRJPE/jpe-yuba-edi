@@ -16,7 +16,7 @@ datatable_metadata <-
                                           "Recaptured catch",
                                           "Release trial",
                                           "Daily trap operations"),
-                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/",
+                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/test1/data/",
                                        c("yuba_catch.csv",
                                          "yuba_recapture.csv",
                                          "yuba_release.csv",
