@@ -102,13 +102,15 @@ catch_recent <- read_xlsx(here::here("data-raw", "yuba_catch.xlsx")) |>
   # TODO check with Casey about removing this field - are they sure they don't want to include it
   # mutate(releaseID = as.character(releaseID)) |>
   bind_rows(catch_format)
+  # mutate(ProjectDescriptionID = as.integer(ProjectDescriptionID),
+  #        )
+
 min(catch_recent$visitTime)
 max(catch_recent$visitTime)
 # trap (2023-onward)
 trap_recent <- read_xlsx(here::here("data-raw", "yuba_trap.xlsx")) |>
   # TODO ask Casey to take care of these data cleaning in queries
   filter(projectDescriptionID == 7) |>
-  select(-c(discharge)) |>
   bind_rows(trap_format) |>
   glimpse()
 min(trap_recent$visitTime)

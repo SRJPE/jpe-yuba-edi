@@ -1,4 +1,4 @@
-library(tidyverse)
+library(dplyr)
 
 append_historic_data <- function(historic_path, new_path){
   historic_data <- read_csv(historic_path)
