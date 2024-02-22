@@ -2,9 +2,9 @@ library(dplyr)
 library(readr)
 
 append_historic_data <- function(historic_path, new_path){
-  historic_data <- read_csv(historic_path)
-  new_data <- read_csv(new_path)
-  full_data <- bind_rows(historic_data, new_data)
+  historic_data <- readr::read_csv(historic_path)
+  new_data <- readr::read_csv(new_path)
+  full_data <- dplyr::bind_rows(historic_data, new_data)
   write.csv(full_data, new_path, row.names = FALSE)
 }
 
