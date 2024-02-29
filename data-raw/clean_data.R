@@ -46,7 +46,17 @@ catch_format <- standard_catch |>
          n = count,
          releaseID = release_id) |>
   select(-c(stream, dead,interpolated,run_method,weight, is_yearling, site_group)) |>
-  mutate(releaseID = as.numeric(releaseID))
+  mutate(releaseID = as.numeric(releaseID),
+         time = "12:00:00",
+         visitTime = lubridate::ymd_hms(paste(visitTime, time)),
+         ProjectDescriptionID = as.numeric(NA),
+         trapVisitID = as.numeric(NA),
+         visitType = as.numeric(NA),
+         catchRawID = as.numeric(NA),
+         totalLength = as.numeric(NA),
+         actualCount = NA
+         ) |>
+  select(-c(time)) |> glimpse()
 
 
 # standard environmental covariate data collected during RST monitoring
