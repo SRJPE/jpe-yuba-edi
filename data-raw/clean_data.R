@@ -95,7 +95,9 @@ trap_format <- standard_trap |>
          subsite = case_when(subsite == "yub" ~ "Yuba River",
                              subsite == "hal" ~ "Hallwood 1 RR",
                              subsite == "hal2" ~ "Hallwood 2 RL",
-                             subsite == "hal3" ~ "Hallwood 3")) |>
+                             subsite == "hal3" ~ "Hallwood 3"),
+         projectDescriptionID = as.numeric(NA),
+         trapVisitID = as.numeric(NA)) |>
   rename(siteName = site,
          subSiteName = subsite,
          rpmRevolutionsAtStart = rpms_start,
@@ -106,7 +108,7 @@ trap_format <- standard_trap |>
             trap_start_time, trap_stop_date, trap_stop_time, visit_type, trap_functioning,
             fish_processed, gear_type, in_thalweg, partial_sample, is_half_cone_configuration,
             depth_adjust, debris_volume, debris_level, counter_start, time, sample_period_revolutions,
-            include, comments, velocity))
+            include, comments, velocity, gear_condition, diff))
 
 # save --------------------------------------------------------------------
 write_csv(catch_format, here::here("data/historic_data", "yuba_catch.csv"))
