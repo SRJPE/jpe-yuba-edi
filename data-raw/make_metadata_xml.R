@@ -20,7 +20,7 @@ datatable_metadata <-
                                           "Recaptured catch",
                                           "Release trial",
                                           "Daily trap operations"),
-                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/test1/data/",
+                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/",
                                        c("yuba_catch.csv",
                                          "yuba_recapture.csv",
                                          "yuba_release.csv",
@@ -102,3 +102,4 @@ EMLaide::update_edi_package(user_id = secret_edi_username,
                             eml_file_path = paste0(getwd(), "/", current_edi_number, ".xml"),
                             existing_package_identifier = paste0("edi.",previous_edi_id, ".", previous_edi_ver, ".xml"),
                             environment = "production")
+
