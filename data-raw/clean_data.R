@@ -2,6 +2,10 @@ library(tidyverse)
 library(readxl)
 library(googleCloudStorageR)
 
+# The purpose of this script is to create the "historic data" files (1999-2009)
+# that are stored in CAMP and need to be appended to each EDI upload.
+# This script only needs to be run once to generate the historic data files but
+# is retained for reference.
 
 # clean -------------------------------------------------------------------
 # notes
@@ -46,7 +50,17 @@ catch_format <- standard_catch |>
          n = count,
          releaseID = release_id) |>
   select(-c(stream, dead,interpolated,run_method,weight, is_yearling, site_group)) |>
-  mutate(releaseID = as.numeric(releaseID))
+  mutate(releaseID = as.numeric(releaseID),
+         time = "12:00:00",
+         visitTime = lubridate::ymd_hms(paste(visitTime, time)),
+         ProjectDescriptionID = as.numeric(NA),
+         trapVisitID = as.numeric(NA),
+         visitType = as.numeric(NA),
+         catchRawID = as.numeric(NA),
+         totalLength = as.numeric(NA),
+         actualCount = NA
+         ) |>
+  select(-c(time)) |> glimpse()
 
 
 # standard environmental covariate data collected during RST monitoring
@@ -81,7 +95,9 @@ trap_format <- standard_trap |>
          subsite = case_when(subsite == "yub" ~ "Yuba River",
                              subsite == "hal" ~ "Hallwood 1 RR",
                              subsite == "hal2" ~ "Hallwood 2 RL",
-                             subsite == "hal3" ~ "Hallwood 3")) |>
+                             subsite == "hal3" ~ "Hallwood 3"),
+         projectDescriptionID = as.numeric(NA),
+         trapVisitID = as.numeric(NA)) |>
   rename(siteName = site,
          subSiteName = subsite,
          rpmRevolutionsAtStart = rpms_start,
@@ -92,53 +108,9 @@ trap_format <- standard_trap |>
             trap_start_time, trap_stop_date, trap_stop_time, visit_type, trap_functioning,
             fish_processed, gear_type, in_thalweg, partial_sample, is_half_cone_configuration,
             depth_adjust, debris_volume, debris_level, counter_start, time, sample_period_revolutions,
-            include, comments, velocity, discharge))
+            include, comments, velocity, gear_condition, diff))
 
-
-
-
-# catch (2022-onward)
-catch_recent <- read_xlsx(here::here("data-raw", "yuba_catch.xlsx")) |>
-  # TODO check with Casey about removing this field - are they sure they don't want to include it
-  # mutate(releaseID = as.character(releaseID)) |>
-  bind_rows(catch_format)
-  # mutate(ProjectDescriptionID = as.integer(ProjectDescriptionID),
-  #        )
-
-min(catch_recent$visitTime)
-max(catch_recent$visitTime)
-# trap (2023-onward)
-trap_recent <- read_xlsx(here::here("data-raw", "yuba_trap.xlsx")) |>
-  # TODO ask Casey to take care of these data cleaning in queries
-  filter(projectDescriptionID == 7) |>
-  bind_rows(trap_format) |>
-  glimpse()
-min(trap_recent$visitTime)
-max(trap_recent$visitTime)
-# recaptures (2022-onward)
-recaptures <- read_xlsx(here::here("data-raw", "yuba_recapture.xlsx")) |>
-  glimpse()
-min(recaptures$visitTime)
-max(recaptures$visitTime)
-# releases (2022-onward)
-releases <- read_xlsx(here::here("data-raw", "yuba_release.xlsx")) |>
-  # TODO ask Casey to remove the db place holder field
-  filter(releaseID != 255) |>
-  # TODO check with Casey about removing this field
-  # select(-c(releaseSubSite)) |>
-  glimpse()
-min(releases$releaseTime, na.rm =T)
-max(releases$releaseTime, na.rm = T)
-filter(releases, is.na(releaseTime))
 # save --------------------------------------------------------------------
-write.csv(catch_format, here::here("data/historic_data", "yuba_catch.csv"), row.names = FALSE)
-write.csv(trap_recent, here::here("data/historic_data", "yuba_trap.csv"), row.names = FALSE)
-write.csv(recaptures, here::here("data/historic_data", "yuba_recapture.csv"), row.names = FALSE)
-write.csv(releases, here::here("data/historic_data", "yuba_release.csv"), row.names = FALSE)
-
-# read in clean -----------------------------------------------------------
-read.csv(here::here("data/historic_data", "yuba_catch.csv")) |> glimpse()
-read.csv(here::here("data/historic_data", "yuba_trap.csv")) |> glimpse()
-read.csv(here::here("data/historic_data", "yuba_recapture.csv")) |> glimpse()
-read.csv(here::here("data/historic_data", "yuba_release.csv")) |> glimpse()
+write_csv(catch_format, here::here("data/historic_data", "yuba_catch.csv"))
+write_csv(trap_format, here::here("data/historic_data", "yuba_trap.csv"))
 

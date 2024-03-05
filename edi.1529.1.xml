@@ -30,7 +30,16 @@
       <electronicMailAddress>jason.kindopp@water.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2023-11-08</pubDate>
+    <associatedParty>
+      <individualName>
+        <givenName>Duane</givenName>
+        <surName>Massa</surName>
+      </individualName>
+      <organizationName>HDR</organizationName>
+      <electronicMailAddress>duane.massa@hdrinc.com</electronicMailAddress>
+      <role>associate</role>
+    </associatedParty>
+    <pubDate>2024-02-08</pubDate>
     <abstract>
       <para>
     California Department of Water Resources (DWR) currently operates
@@ -87,7 +96,7 @@
             <calendarDate>1999-11-25</calendarDate>
           </beginDate>
           <endDate>
-            <calendarDate>2023-07-26</calendarDate>
+            <calendarDate>2022-12-27</calendarDate>
           </endDate>
         </rangeOfDates>
       </temporalCoverage>
@@ -194,7 +203,8 @@
     used to speed up processing. Efforts are made to ensure welfare of
     fish is maintained during capture and handling; however, fish may be
     affected by other pathogens and disease which may increase the
-    possibility of mortality.
+    possibility of mortality. Run assignments in the historical data may
+    be inconsistent with contemporary methods for assigning run.
   </para>
           <para>
     Trap efficiency trials
@@ -238,12 +248,12 @@
       </personnel>
     </project>
     <dataTable>
-      <entityName>yuba_catch_edi.csv</entityName>
+      <entityName>yuba_catch.csv</entityName>
       <entityDescription>Daily catch</entityDescription>
       <physical>
-        <objectName>yuba_catch_edi.csv</objectName>
-        <size unit="bytes">14104020</size>
-        <authentication method="MD5">4f82e947f363fb359a73c1e339b041a0</authentication>
+        <objectName>yuba_catch.csv</objectName>
+        <size unit="bytes">11642817</size>
+        <authentication method="MD5">af48c3221fe2796a52a4ee56d41638ab</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -256,7 +266,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/yuba_catch_edi.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/test1/data/yuba_catch.csv</url>
           </online>
         </distribution>
       </physical>
@@ -397,12 +407,12 @@
         <attribute>
           <attributeName>run</attributeName>
           <attributeLabel>catch</attributeLabel>
-          <attributeDefinition>Run designation as determined in the field or as assigned at a later date.  Levels = c("Not recorded", "Spring", "Fall", "Winter", "Late fall")</attributeDefinition>
+          <attributeDefinition>Run designation as determined in the field or as assigned at a later date. Run assignments in the historical data may be inconsistent with contemporary methods for assigning run. Levels = c("Not recorded", "Spring", "Fall", "Winter", "Late fall")</attributeDefinition>
           <measurementScale>
             <nominal>
               <nonNumericDomain>
                 <textDomain>
-                  <definition>Run designation as determined in the field or as assigned at a later date.  Levels = c("Not recorded", "Spring", "Fall", "Winter", "Late fall")</definition>
+                  <definition>Run designation as determined in the field or as assigned at a later date. Run assignments in the historical data may be inconsistent with contemporary methods for assigning run. Levels = c("Not recorded", "Spring", "Fall", "Winter", "Late fall")</definition>
                 </textDomain>
               </nonNumericDomain>
             </nominal>
@@ -508,15 +518,15 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>112927</numberOfRecords>
+      <numberOfRecords>1370</numberOfRecords>
     </dataTable>
     <dataTable>
-      <entityName>yuba_recapture_edi.csv</entityName>
+      <entityName>yuba_recapture.csv</entityName>
       <entityDescription>Recaptured catch</entityDescription>
       <physical>
-        <objectName>yuba_recapture_edi.csv</objectName>
-        <size unit="bytes">10024</size>
-        <authentication method="MD5">a90d31c5fc88fcca957a9397a849b84f</authentication>
+        <objectName>yuba_recapture.csv</objectName>
+        <size unit="bytes">19445</size>
+        <authentication method="MD5">c0375787da483aa3ef0334c317dbffbd</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -529,7 +539,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/yuba_recapture_edi.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/test1/data/yuba_recapture.csv</url>
           </online>
         </distribution>
       </physical>
@@ -663,25 +673,6 @@
                 <bounds>
                   <minimum exclusive="false">38</minimum>
                   <maximum exclusive="false">74</maximum>
-                </bounds>
-              </numericDomain>
-            </ratio>
-          </measurementScale>
-        </attribute>
-        <attribute>
-          <attributeName>totalLength</attributeName>
-          <attributeLabel>recapture</attributeLabel>
-          <attributeDefinition>Total length of the fish measured in millimeters</attributeDefinition>
-          <measurementScale>
-            <ratio>
-              <unit>
-                <standardUnit>millimeter</standardUnit>
-              </unit>
-              <numericDomain>
-                <numberType>real</numberType>
-                <bounds>
-                  <minimum exclusive="false">0</minimum>
-                  <maximum exclusive="false">0</maximum>
                 </bounds>
               </numericDomain>
             </ratio>
@@ -824,12 +815,12 @@
       <numberOfRecords>59</numberOfRecords>
     </dataTable>
     <dataTable>
-      <entityName>yuba_release_edi.csv</entityName>
+      <entityName>yuba_release.csv</entityName>
       <entityDescription>Release trial</entityDescription>
       <physical>
-        <objectName>yuba_release_edi.csv</objectName>
-        <size unit="bytes">2945</size>
-        <authentication method="MD5">010553905094e1f4f867a48caa03315d</authentication>
+        <objectName>yuba_release.csv</objectName>
+        <size unit="bytes">5638</size>
+        <authentication method="MD5">b49b0cd2d7c298cf7969987486ac38e6</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -842,7 +833,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/yuba_release_edi.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/test1/data/yuba_release.csv</url>
           </online>
         </distribution>
       </physical>
@@ -965,6 +956,20 @@
           </measurementScale>
         </attribute>
         <attribute>
+          <attributeName>releaseSubSite</attributeName>
+          <attributeLabel>release</attributeLabel>
+          <attributeDefinition>Subsite (within site) where fish were released. Corresponds to a trap location. Levels = c("Eye Pool Left &amp; Right RM 60.5", "NA", "Not applicable (n/a)", "Herringer Release boxes", "next to Gateway release boxes", "Gateway release boxesw", "next to Herringer Release boxes", "gateway release_RL &amp; RR", "Steep release_RR &amp; RL", "Below Weir Riffle", "half mile above trap RM")</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Subsite (within site) where fish were released. Corresponds to a trap location. Levels = c("Eye Pool Left &amp; Right RM 60.5", "NA", "Not applicable (n/a)", "Herringer Release boxes", "next to Gateway release boxes", "Gateway release boxesw", "next to Herringer Release boxes", "gateway release_RL &amp; RR", "Steep release_RR &amp; RL", "Below Weir Riffle", "half mile above trap RM")</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
           <attributeName>nReleased</attributeName>
           <attributeLabel>release</attributeLabel>
           <attributeDefinition>Number of fish released that were alive with mark intact</attributeDefinition>
@@ -1076,12 +1081,12 @@
       <numberOfRecords>19</numberOfRecords>
     </dataTable>
     <dataTable>
-      <entityName>yuba_trap_edi.csv</entityName>
+      <entityName>yuba_trap.csv</entityName>
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
-        <objectName>yuba_trap_edi.csv</objectName>
-        <size unit="bytes">656725</size>
-        <authentication method="MD5">685abd2631fe8687e9c0b217cc8a20bf</authentication>
+        <objectName>yuba_trap.csv</objectName>
+        <size unit="bytes">528226</size>
+        <authentication method="MD5">72890b4da0f04e415641a1fe85c994b9</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1094,7 +1099,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/yuba_trap_edi.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/test1/data/yuba_trap.csv</url>
           </online>
         </distribution>
       </physical>
@@ -1288,25 +1293,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>waterVel</attributeName>
-          <attributeLabel>te</attributeLabel>
-          <attributeDefinition>Water velocity measured at trap</attributeDefinition>
-          <measurementScale>
-            <ratio>
-              <unit>
-                <standardUnit>feetPerSecond</standardUnit>
-              </unit>
-              <numericDomain>
-                <numberType>real</numberType>
-                <bounds>
-                  <minimum exclusive="false">0</minimum>
-                  <maximum exclusive="false">0.97</maximum>
-                </bounds>
-              </numericDomain>
-            </ratio>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>waterTemp</attributeName>
           <attributeLabel>trap</attributeLabel>
           <attributeDefinition>Water temperature measured at trap</attributeDefinition>
@@ -1345,7 +1331,7 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>3892</numberOfRecords>
+      <numberOfRecords>98</numberOfRecords>
     </dataTable>
   </dataset>
   <additionalMetadata>
