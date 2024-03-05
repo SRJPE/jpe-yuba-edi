@@ -33,7 +33,7 @@ jobs:
           git pull origin ${{github.ref_name }}
       - name: Merge branch to main
         run: |
-          git checkout test1
+          git checkout main
           git pull
           git merge ${{ github.ref_name }} -m"merging validated upload branch to main"
           git push
