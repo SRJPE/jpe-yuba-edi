@@ -8,23 +8,31 @@ secret_edi_username = Sys.getenv("EDI_USERNAME")
 secret_edi_password = Sys.getenv("EDI_PASSWORD")
 
 datatable_metadata <-
-  dplyr::tibble(filepath = c("data/yuba_catch.csv",
-                             "data/yuba_recapture.csv",
-                             "data/yuba_release.csv",
-                             "data/yuba_trap.csv"),
+  dplyr::tibble(filepath=c("data/current_year_yuba_catch.csv",
+                           "data/current_year_yuba_recapture.csv",
+                           "data/current_year_yuba_release.csv",
+                           "data/current_year_yuba_trap.csv"),
                 attribute_info = c("data-raw/metadata/yuba_catch_metadata.xlsx",
                                    "data-raw/metadata/yuba_recapture_metadata.xlsx",
                                    "data-raw/metadata/yuba_release_metadata.xlsx",
                                    "data-raw/metadata/yuba_trap_metadata.xlsx"),
                 datatable_description = c("Daily catch",
                                           "Recaptured catch",
-                                          "Release trial",
+                                          "Release trial summary",
                                           "Daily trap operations"),
                 datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/",
-                                       c("yuba_catch.csv",
-                                         "yuba_recapture.csv",
-                                         "yuba_release.csv",
-                                         "yuba_trap.csv")))
+                                       c("current_year_yuba_catch.csv",
+                                         "current_year_yuba_recapture.csv",
+                                         "current_year_yuba_release.csv",
+                                         "current_year_yuba_trap.csv")))
+zipped_entity_metadata <- c("file_name" = "yuba.zip",
+                            "file_description" = "Zipped folder",
+                            "file_type" = "zip",
+                            "physical" = list(create_physical(file_path = "data/yuba.zip",
+                                                              data_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/",
+                                                                                "yuba.zip")))
+)
+
 # save cleaned data to `data/`
 excel_path <- "data-raw/metadata/yuba_metadata.xlsx"
 sheets <- readxl::excel_sheets(excel_path)
