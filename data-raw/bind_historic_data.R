@@ -3,17 +3,12 @@ library(readr)
 library(zip)
 
 append_historic_data <- function(historic_path, new_path) {
+
   # Temporary directories for extraction and writing
   folder_path <- "data/yuba.zip"
-
-  # historic_path <- "data/historic_data/yuba_catch.csv"
-  # new_path <- "data/yuba.zip/yuba_catch.csv"
-
   temp_dir <- tempdir()
   temp_dir <- normalizePath(temp_dir, winslash = "/")
-  # getwd()
   original_wd <- getwd()
-
 
   # Unzip new_path
   unzip(folder_path, exdir = temp_dir)
@@ -49,7 +44,6 @@ append_historic_data <- function(historic_path, new_path) {
 
 # Paths for historical and new data
 path <- sort(c("yuba_catch.csv", "yuba_trap.csv"))
-# folder_path <- "data/yuba.zip"
 full_historic_path <- paste0("data/historic_data/", path)
 full_new_data_path <- paste0("data/yuba.zip/", path)
 
