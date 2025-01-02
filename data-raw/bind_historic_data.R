@@ -3,7 +3,6 @@ library(readr)
 library(zip)
 
 append_historic_data <- function(historic_path, new_path) {
-
   # Temporary directories for extraction and writing
   folder_path <- "data/yuba.zip"
   temp_dir <- tempdir()
@@ -16,7 +15,6 @@ append_historic_data <- function(historic_path, new_path) {
 
   # Load historic data
   historic_data <- readr::read_csv(historic_path)
-
   # Load and filter new data
   new_data <- if (grepl("yuba_catch.csv", new_path)) {
     readr::read_csv(new_file) |>
@@ -25,10 +23,8 @@ append_historic_data <- function(historic_path, new_path) {
     readr::read_csv(new_file) |>
       filter(projectDescriptionID == 7)
   }
-
   # Combine data
   full_data <- dplyr::bind_rows(historic_data, new_data)
-
   # Write updated data back to the temporary directory
   write_csv(full_data, new_file)
   setwd(temp_dir)
