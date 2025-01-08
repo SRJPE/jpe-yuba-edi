@@ -80,7 +80,8 @@ dataset <- list() %>%
   add_maintenance(metadata$maintenance) %>%
   add_project(metadata$funding) %>%
   add_coverage(metadata$coverage, metadata$taxonomic_coverage) %>%
-  add_datatable(datatable_metadata)
+  add_datatable(datatable_metadata) |>
+  add_other_entity(zipped_entity_metadata)
 
 # GO through and check on all units
 custom_units <- data.frame(id = c("number of rotations", "NTU", "revolutions per minute", "number of fish", "days"),
@@ -95,7 +96,6 @@ custom_units <- data.frame(id = c("number of rotations", "NTU", "revolutions per
 
 
 unitList <- EML::set_unitList(custom_units)
-
 eml <- list(packageId = current_edi_number,
             system = "EDI",
             access = add_access(),
