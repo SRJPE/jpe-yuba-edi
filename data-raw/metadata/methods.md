@@ -1,3 +1,5 @@
+Note: data from the current year are uploaded as csvs. Full data files are available in the zip file.
+
 ## Trap equipment
 
 Two 8-foot rotary screw traps; one 5-foot RST (depending on conditions)
@@ -32,3 +34,4 @@ Natural origin Chinook captured in RSTs are the primary source of released fish.
 ## Trap efficiency mark rotation
 
 Fish are marked with a colored Visible Implant Elastomer (VIE), and/or a Bismarck brown Y (BBY) whole body stain. Elastomer colors and/or marking locations on the fish are used to create unique marks. A unique mark is not used again for 7 days to ensure release groups of the same mark do not overlap.
+
