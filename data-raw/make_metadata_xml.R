@@ -42,7 +42,7 @@ names(metadata) <- sheets
 abstract_docx <- "data-raw/metadata/abstract.docx"
 methods_docx <- "data-raw/metadata/methods.md"
 methods_docx <- "data-raw/metadata/methods.docx"
-catch_df <- readr::read_csv("data/yuba_catch.csv")
+catch_df <- readr::read_csv(unzip("data/yuba.zip", "yuba_catch.csv"))
 catch_coverage <- tail(catch_df$visitTime, 1)
 metadata$coverage$end_date <- lubridate::floor_date(catch_coverage, unit = "days")
 
