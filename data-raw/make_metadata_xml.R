@@ -7,24 +7,66 @@ library(readr)
 secret_edi_username = Sys.getenv("EDI_USERNAME")
 secret_edi_password = Sys.getenv("EDI_PASSWORD")
 
-datatable_metadata <-
-  dplyr::tibble(filepath=c("data/current_year_yuba_catch.csv",
-                           "data/current_year_yuba_recapture.csv",
-                           "data/current_year_yuba_release.csv",
-                           "data/current_year_yuba_trap.csv"),
-                attribute_info = c("data-raw/metadata/yuba_catch_metadata.xlsx",
-                                   "data-raw/metadata/yuba_recapture_metadata.xlsx",
-                                   "data-raw/metadata/yuba_release_metadata.xlsx",
-                                   "data-raw/metadata/yuba_trap_metadata.xlsx"),
-                datatable_description = c("Daily catch",
-                                          "Recaptured catch",
-                                          "Release trial summary",
-                                          "Daily trap operations"),
-                datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/",
-                                       c("current_year_yuba_catch.csv",
-                                         "current_year_yuba_recapture.csv",
-                                         "current_year_yuba_release.csv",
-                                         "current_year_yuba_trap.csv")))
+datatable_metadata <- dplyr::tibble(
+  filepath = character(),
+  attribute_info = character(),
+  datatable_description = character(),
+  datatable_url = character()
+)
+file_list = c("current_year_yuba_catch.csv",
+              "current_year_yuba_recapture.csv",
+              "current_year_yuba_release.csv",
+              "current_year_yuba_trap.csv")
+metadata_info = c("data-raw/metadata/yuba_catch_metadata.xlsx",
+                  "data-raw/metadata/yuba_recapture_metadata.xlsx",
+                  "data-raw/metadata/yuba_release_metadata.xlsx",
+                  "data-raw/metadata/yuba_trap_metadata.xlsx")
+description = c("Daily catch",
+                "Recaptured catch",
+                "Release trial summary",
+                "Daily trap operations")
+url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/",
+             c("current_year_yuba_catch.csv",
+               "current_year_yuba_recapture.csv",
+               "current_year_yuba_release.csv",
+               "current_year_yuba_trap.csv"))
+
+for (i in seq_along(file_list)){
+  x <- read_csv(paste0("data/",file_list[i]))
+  if (nrow(x) > 0){
+    filepath <- paste0("data/", file_list[i])
+    attribute_info <- metadata_info[i]
+    datatable_description <- description[i]
+    datatable_url <- url[i]
+
+    datatable_metadata <- bind_rows(
+      datatable_metadata,
+      dplyr::tibble(filepath = filepath,
+                    attribute_info = attribute_info,
+                    datatable_description = datatable_description,
+                    datatable_url = datatable_url)
+    )
+  }
+}
+
+# datatable_metadata <-
+#   dplyr::tibble(filepath=c("data/current_year_yuba_catch.csv",
+#                            "data/current_year_yuba_recapture.csv",
+#                            "data/current_year_yuba_release.csv",
+#                            "data/current_year_yuba_trap.csv"),
+#                 attribute_info = c("data-raw/metadata/yuba_catch_metadata.xlsx",
+#                                    "data-raw/metadata/yuba_recapture_metadata.xlsx",
+#                                    "data-raw/metadata/yuba_release_metadata.xlsx",
+#                                    "data-raw/metadata/yuba_trap_metadata.xlsx"),
+#                 datatable_description = c("Daily catch",
+#                                           "Recaptured catch",
+#                                           "Release trial summary",
+#                                           "Daily trap operations"),
+#                 datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-yuba-edi/main/data/",
+#                                        c("current_year_yuba_catch.csv",
+#                                          "current_year_yuba_recapture.csv",
+#                                          "current_year_yuba_release.csv",
+#                                          "current_year_yuba_trap.csv")))
 zipped_entity_metadata <- c("file_name" = "yuba.zip",
                             "file_description" = "Zipped folder",
                             "file_type" = "zip",
@@ -42,6 +84,7 @@ names(metadata) <- sheets
 abstract_docx <- "data-raw/metadata/abstract.docx"
 methods_docx <- "data-raw/metadata/methods.md"
 methods_docx <- "data-raw/metadata/methods.docx"
+
 catch_df <- readr::read_csv(unzip("data/yuba.zip", "yuba_catch.csv"))
 catch_coverage <- tail(catch_df$visitTime, 1)
 metadata$coverage$end_date <- lubridate::floor_date(catch_coverage, unit = "days")
