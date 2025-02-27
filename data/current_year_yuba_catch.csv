@@ -1390,7 +1390,7 @@ ProjectDescriptionID,trapVisitID,visitTime,siteName,subSiteName,visitType,catchR
 7,1538,2025-01-22T10:45:26Z,Hallwood,Hallwood 2 RL,Continue trapping,33646,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1538,2025-01-22T10:45:26Z,Hallwood,Hallwood 2 RL,Continue trapping,33659,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1532,2025-01-22T10:45:26Z,Hallwood,Hallwood 1 RR,Continue trapping,33514,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1538,2025-01-22T10:45:26Z,Hallwood,Hallwood 2 RL,Continue trapping,33654,Chinook salmon,Fall,Natural,Fry,31.0,,1,Yes,255
+7,1538,2025-01-22T10:45:26Z,Hallwood,Hallwood 2 RL,Continue trapping,33654,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1532,2025-01-22T10:45:26Z,Hallwood,Hallwood 1 RR,Continue trapping,33481,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1532,2025-01-22T10:45:26Z,Hallwood,Hallwood 1 RR,Continue trapping,33505,Chinook salmon,Fall,Natural,Fry,40.0,,1,Yes,255
 7,1532,2025-01-22T10:45:26Z,Hallwood,Hallwood 1 RR,Continue trapping,33489,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
@@ -1518,26 +1518,26 @@ ProjectDescriptionID,trapVisitID,visitTime,siteName,subSiteName,visitType,catchR
 7,1535,2025-01-25T09:30:14Z,Hallwood,Hallwood 1 RR,Continue trapping,33575,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
 7,1535,2025-01-25T09:30:14Z,Hallwood,Hallwood 1 RR,Continue trapping,33573,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
 7,1535,2025-01-25T09:30:14Z,Hallwood,Hallwood 1 RR,Continue trapping,33574,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1541,2025-01-25T09:30:54Z,Hallwood,Hallwood 2 RL,Continue trapping,33695,Chinook salmon,Not recorded,Natural,Parr,32.0,,1,Yes,255
 7,1541,2025-01-25T09:30:54Z,Hallwood,Hallwood 2 RL,Continue trapping,33694,Chinook salmon,Not recorded,Natural,Parr,38.0,,1,Yes,255
 7,1541,2025-01-25T09:30:54Z,Hallwood,Hallwood 2 RL,Continue trapping,33693,Chinook salmon,Not recorded,Natural,Parr,31.0,,1,Yes,255
 7,1541,2025-01-25T09:30:54Z,Hallwood,Hallwood 2 RL,Continue trapping,33692,Chinook salmon,Not recorded,Natural,Parr,37.0,,1,Yes,255
 7,1541,2025-01-25T09:30:54Z,Hallwood,Hallwood 2 RL,Continue trapping,33691,Chinook salmon,Not recorded,Natural,Parr,36.0,,1,Yes,255
 7,1541,2025-01-25T09:30:54Z,Hallwood,Hallwood 2 RL,Continue trapping,33690,Chinook salmon,Not recorded,Natural,Parr,33.0,,1,Yes,255
 7,1541,2025-01-25T09:30:54Z,Hallwood,Hallwood 2 RL,Continue trapping,33689,Chinook salmon,Not recorded,Natural,Parr,37.0,,1,Yes,255
-7,1541,2025-01-25T09:30:54Z,Hallwood,Hallwood 2 RL,Continue trapping,33695,Chinook salmon,Not recorded,Natural,Parr,32.0,,1,Yes,255
-7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33709,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33704,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33705,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33713,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33712,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33711,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33710,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33709,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33708,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33707,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33706,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33698,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33711,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33704,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33696,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33713,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33697,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33706,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33696,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33698,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33699,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33700,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,33701,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
@@ -1591,241 +1591,870 @@ ProjectDescriptionID,trapVisitID,visitTime,siteName,subSiteName,visitType,catchR
 7,1536,2025-01-26T12:15:09Z,Hallwood,Hallwood 1 RR,Continue trapping,33605,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1536,2025-01-26T12:15:09Z,Hallwood,Hallwood 1 RR,Continue trapping,33628,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1536,2025-01-26T12:15:09Z,Hallwood,Hallwood 1 RR,Continue trapping,33616,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33820,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33828,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33835,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
 7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33834,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33821,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33828,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33833,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33832,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
 7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33831,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33830,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33829,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33833,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33827,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33826,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33825,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33824,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33822,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33819,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33817,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
 7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33836,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33820,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33823,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33819,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33822,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33827,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33818,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33753,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33741,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33742,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33743,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33744,Chinook salmon,Fall,Natural,Fry,29.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33745,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33746,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33747,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33748,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33749,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33750,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33740,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33821,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33823,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33824,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33825,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33826,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,33817,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33752,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33760,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33753,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33764,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33758,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33754,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33755,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33756,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33757,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33758,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33759,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33760,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33761,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33763,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33764,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33765,Chinook salmon,Fall,Natural,Not recorded,,,15,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33743,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33751,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33717,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33714,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,87.0,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33762,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33739,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33715,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33716,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33718,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33719,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33720,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33721,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33722,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33723,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33724,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33730,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33729,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33728,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33727,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33750,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33725,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33745,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33731,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33722,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33726,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33720,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33719,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33718,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33717,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33716,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33715,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33714,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,87.0,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33723,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33747,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33724,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33748,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33732,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33746,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33744,Chinook salmon,Fall,Natural,Fry,29.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33742,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33741,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33735,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33749,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33740,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33734,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33736,Chinook salmon,Fall,Natural,Fry,40.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33738,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33726,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33737,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33735,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33738,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33739,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33733,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33729,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33732,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33727,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33731,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33730,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,33728,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33798,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33796,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),27.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33794,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33790,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33792,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33788,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33791,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33803,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33789,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33793,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33799,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33800,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33807,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33815,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33802,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33809,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33804,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33805,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33806,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33787,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33773,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33808,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33801,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33776,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33797,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33809,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33766,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33767,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33768,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33769,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33770,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33771,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33775,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33774,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33786,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33777,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33778,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33779,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33780,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33781,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33782,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33783,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33784,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33785,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33772,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33807,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33810,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33811,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33812,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33813,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33814,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33815,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33816,Chinook salmon,Fall,Natural,Not recorded,,,2,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33801,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33806,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33813,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33772,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33782,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33781,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33780,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33779,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33778,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33776,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33783,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33773,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33777,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33771,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33770,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33769,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33768,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33767,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33808,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33800,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33774,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33796,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),27.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33799,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33798,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33775,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33797,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33784,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33766,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33795,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33810,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33845,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33855,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33794,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33793,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33786,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33785,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33792,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33787,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33788,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33789,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33791,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,33790,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33862,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33854,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33853,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33852,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33851,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33850,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33849,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33848,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33855,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33856,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33846,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33861,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33847,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33857,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33858,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33844,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33860,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33841,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33862,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33863,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33859,Chinook salmon,Fall,Natural,Fry,40.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33864,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33865,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33861,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33868,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33853,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33866,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33867,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33868,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33859,Chinook salmon,Fall,Natural,Fry,40.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33842,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33869,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33840,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),27.0,,1,Yes,255
-7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33839,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),26.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33863,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33860,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33842,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33865,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33852,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33838,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33839,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),26.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33841,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33837,Riffle sculpin,Not recorded,Natural,Not recorded,,93.0,1,Yes,255
 7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33843,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33878,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33844,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33845,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33846,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33847,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33848,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33849,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33850,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33851,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1546,2025-01-28T11:25:42Z,Hallwood,Hallwood 2 RL,Continue trapping,33840,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),27.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33893,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33886,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33887,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33888,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33890,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33892,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33894,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33895,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
 7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33896,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33897,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33898,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33899,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33893,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33900,Chinook salmon,Fall,Natural,Not recorded,,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33888,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33877,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33879,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33892,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33891,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33889,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33876,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33887,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33886,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
 7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33885,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33884,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33883,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33882,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33881,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33880,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33890,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33875,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33874,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33873,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33872,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33870,Unknown sculpin (Cottus),Not recorded,Natural,Not recorded,,41.0,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33900,Chinook salmon,Fall,Natural,Not recorded,,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33889,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33899,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33871,Chinook salmon,Fall,Natural,Fry,40.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33891,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33884,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33870,Unknown sculpin (Cottus),Not recorded,Natural,Not recorded,,41.0,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33872,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33873,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33874,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33875,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33877,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33878,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33879,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33880,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33881,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33876,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33882,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1547,2025-01-29T10:30:35Z,Hallwood,Hallwood 2 RL,End trapping,33883,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33930,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33938,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33937,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33936,Chinook salmon,Fall,Natural,Fry,40.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33935,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33934,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33933,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33932,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33931,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33937,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33929,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33941,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33928,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33930,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33938,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33927,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33931,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33929,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33939,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33948,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33932,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33940,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33902,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33941,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33942,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33943,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33944,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33945,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33946,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33947,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33948,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33949,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33950,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33939,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33918,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33906,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33907,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33908,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33951,Chinook salmon,Fall,Natural,Not recorded,,,3,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33909,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33910,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33927,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33946,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33908,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33926,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33902,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33903,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33904,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33905,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33907,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33911,Chinook salmon,Fall,Natural,Fry,40.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33910,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33901,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33912,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33913,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33914,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33915,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33904,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33917,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33926,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33919,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33920,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33905,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33921,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33951,Chinook salmon,Fall,Natural,Not recorded,,,3,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33922,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33923,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33924,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33901,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
-7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33903,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33906,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33925,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33914,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33923,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33922,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33921,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33919,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33918,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33917,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
 7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33916,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33915,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1548,2025-01-29T10:30:38Z,Hallwood,Hallwood 1 RR,End trapping,33920,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33979,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33968,Chinook salmon,Spring,Natural,Silvery parr,67.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33969,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),31.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33970,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),35.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33971,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33972,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33973,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33974,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33980,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33978,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33975,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33967,Chinook salmon,Spring,Natural,Silvery parr,75.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33976,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33957,Bluegill,Not recorded,Natural,Not recorded,145.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33966,Chinook salmon,Winter,Natural,Smolt,96.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33977,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33954,Brown bullhead,Not recorded,Natural,Not recorded,42.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33955,Sacramento pikeminnow,Not recorded,Natural,Not recorded,50.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33956,Sacramento sucker,Not recorded,Natural,Not recorded,56.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33953,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,120.0,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33958,Bluegill,Not recorded,Natural,Not recorded,121.0,,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33959,Prickly sculpin,Not recorded,Natural,Not recorded,,52.0,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33960,Riffle sculpin,Not recorded,Natural,Not recorded,,81.0,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33961,Riffle sculpin,Not recorded,Natural,Not recorded,,53.0,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33962,Riffle sculpin,Not recorded,Natural,Not recorded,,43.0,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33963,Riffle sculpin,Not recorded,Natural,Not recorded,,50.0,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33964,Riffle sculpin,Not recorded,Natural,Not recorded,,63.0,1,Yes,255
+7,1550,2025-02-12T10:56:27Z,Hallwood,Hallwood 2 RL,Continue trapping,33965,Riffle sculpin,Not recorded,Natural,Not recorded,,42.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34014,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34006,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34001,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34002,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34003,Chinook salmon,Fall,Natural,Fry,31.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34004,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34005,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34000,Chinook salmon,Fall,Natural,Fry,43.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34007,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34008,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34009,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34010,Chinook salmon,Fall,Natural,Parr,46.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34011,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33999,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34013,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33994,Bluegill,Not recorded,Natural,Not recorded,128.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34015,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,34012,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33985,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,112.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33981,Speckled dace,Not recorded,Natural,Not recorded,46.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33982,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,96.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33996,Chinook salmon,Spring,Natural,Parr,55.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33984,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,81.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33998,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33986,Riffle sculpin,Not recorded,Natural,Not recorded,,59.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33987,Riffle sculpin,Not recorded,Natural,Not recorded,,72.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33997,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33989,Riffle sculpin,Not recorded,Natural,Not recorded,,52.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33990,Riffle sculpin,Not recorded,Natural,Not recorded,,65.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33991,Unknown sculpin (Cottus),Not recorded,Natural,Not recorded,,36.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33992,Mosquitofish,Not recorded,Natural,Not recorded,,36.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33993,Mosquitofish,Not recorded,Natural,Not recorded,,31.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33995,Sacramento pikeminnow,Not recorded,Natural,Not recorded,37.0,,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33988,Riffle sculpin,Not recorded,Natural,Not recorded,,46.0,1,Yes,255
+7,1551,2025-02-13T10:45:25Z,Hallwood,Hallwood 2 RL,End trapping,33983,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,81.0,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34026,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),37.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34027,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34028,Chinook salmon,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34029,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34030,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34031,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34025,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),33.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34032,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34023,Chinook salmon,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34022,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34021,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34020,Chinook salmon,Spring,Natural,Silvery parr,59.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34019,Riffle sculpin,Not recorded,Natural,Not recorded,,78.0,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34018,Riffle sculpin,Not recorded,Natural,Not recorded,,101.0,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34017,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,115.0,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34033,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1553,2025-02-15T10:11:13Z,Hallwood,Hallwood 2 RL,Continue trapping,34024,Chinook salmon,Fall,Natural,Parr,39.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34061,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34049,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34050,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34051,Chinook salmon,Fall,Natural,Fry,42.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34052,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34053,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34054,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34055,Chinook salmon,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34056,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34048,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34060,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34057,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34058,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34036,Sacramento pikeminnow,Not recorded,Natural,Not recorded,53.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34034,Unknown sculpin (Cottus),Not recorded,Natural,Not recorded,,46.0,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34059,Chinook salmon,Fall,Natural,Parr,42.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34047,Chinook salmon,Fall,Natural,Fry,42.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34035,Riffle sculpin,Not recorded,Natural,Not recorded,,70.0,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34037,Chinook salmon,Winter,Natural,Smolt,76.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34038,Chinook salmon,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34039,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34041,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34042,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),32.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34046,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34043,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34045,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34040,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1554,2025-02-16T09:25:38Z,Hallwood,Hallwood 2 RL,Continue trapping,34044,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34097,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34103,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34102,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34120,Chinook salmon,Fall,Natural,Not recorded,,,5,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34101,Chinook salmon,Fall,Natural,Fry,43.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34100,Chinook salmon,Fall,Natural,Parr,45.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34095,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34098,Chinook salmon,Fall,Natural,Parr,47.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34096,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34104,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34113,Chinook salmon,Fall,Natural,Parr,54.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34094,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34093,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34099,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34114,Chinook salmon,Fall,Natural,Fry,47.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34079,Chinook salmon,Fall,Natural,Fry,32.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34092,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34119,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34118,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34117,Chinook salmon,Fall,Natural,Fry,48.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34111,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34115,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34105,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34112,Chinook salmon,Fall,Natural,Fry,45.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34110,Chinook salmon,Fall,Natural,Parr,46.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34109,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34108,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34107,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34106,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34116,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34068,Speckled dace,Fall,Natural,Not recorded,53.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34062,Sacramento sucker,Not recorded,Natural,Not recorded,48.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34063,Bluegill,Not recorded,Natural,Not recorded,129.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34064,Riffle sculpin,Not recorded,Natural,Not recorded,,48.0,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34065,Riffle sculpin,Not recorded,Natural,Not recorded,,54.0,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34081,Chinook salmon,Fall,Natural,Fry,44.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34067,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,106.0,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34091,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34069,Chinook salmon,Spring,Natural,Parr,56.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34070,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34071,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34072,Chinook salmon,Fall,Natural,Parr,47.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34073,Chinook salmon,Fall,Natural,Fry,42.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34074,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34087,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34066,Riffle sculpin,Not recorded,Natural,Not recorded,,60.0,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34075,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34090,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34088,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34086,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34085,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34084,Chinook salmon,Fall,Natural,Fry,41.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34083,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),32.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34082,Chinook salmon,Fall,Natural,Fry,42.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34080,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34078,Chinook salmon,Fall,Natural,Fry,40.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34077,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34076,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1555,2025-02-17T08:40:22Z,Hallwood,Hallwood 2 RL,Continue trapping,34089,Chinook salmon,Fall,Natural,Fry,44.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34138,Riffle sculpin,Not recorded,Natural,Not recorded,63.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34131,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,69.0,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34137,Riffle sculpin,Not recorded,Natural,Not recorded,62.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34135,Riffle sculpin,Not recorded,Natural,Not recorded,64.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34134,Riffle sculpin,Not recorded,Natural,Not recorded,55.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34133,Riffle sculpin,Not recorded,Natural,Not recorded,56.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34132,Riffle sculpin,Not recorded,Natural,Not recorded,66.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34130,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,81.0,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34129,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,130.0,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34128,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,100.0,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34127,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,106.0,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34126,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,82.0,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34125,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,86.0,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34123,Speckled dace,Not recorded,Natural,Not recorded,58.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34124,Speckled dace,Not recorded,Natural,Not recorded,56.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34181,Chinook salmon,Fall,Natural,Parr,46.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34168,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34169,Chinook salmon,Fall,Natural,Parr,45.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34170,Chinook salmon,Fall,Natural,Parr,54.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34171,Chinook salmon,Fall,Natural,Parr,43.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34172,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34173,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34174,Chinook salmon,Fall,Natural,Parr,44.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34175,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34176,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34177,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34178,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34167,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34180,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34183,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34182,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34184,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),34.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34186,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34187,Chinook salmon,Fall,Natural,Silvery parr,50.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34188,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34189,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34190,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34191,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34192,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34193,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),34.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34194,Chinook salmon,Fall,Natural,Not recorded,,,30,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34136,Riffle sculpin,Not recorded,Natural,Not recorded,52.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34179,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34150,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34166,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34139,Sacramento pikeminnow,Not recorded,Natural,Not recorded,36.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34140,Sacramento pikeminnow,Not recorded,Natural,Not recorded,53.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34141,Sacramento pikeminnow,Not recorded,Natural,Not recorded,55.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34142,Sacramento pikeminnow,Not recorded,Natural,Not recorded,38.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34143,Chinook salmon,Spring,Natural,Silvery parr,60.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34144,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34145,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34146,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34147,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34148,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34185,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34149,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34151,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34158,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34165,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34164,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34163,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34162,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34161,Chinook salmon,Fall,Natural,Parr,42.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34159,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34152,Chinook salmon,Fall,Natural,Parr,45.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34157,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34156,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34155,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),33.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34154,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34153,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),34.0,,1,Yes,255
+7,1556,2025-02-18T10:38:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34160,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1559,2025-02-18T11:25:02Z,Hallwood,Hallwood 3,Continue trapping,34259,Chinook salmon,Spring,Natural,Parr,58.0,,1,Yes,255
+7,1559,2025-02-18T11:25:02Z,Hallwood,Hallwood 3,Continue trapping,34260,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1559,2025-02-18T11:25:02Z,Hallwood,Hallwood 3,Continue trapping,34261,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1559,2025-02-18T11:25:02Z,Hallwood,Hallwood 3,Continue trapping,34262,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1562,2025-02-19T11:25:34Z,Hallwood,Hallwood 3,Continue trapping,34398,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1562,2025-02-19T11:25:34Z,Hallwood,Hallwood 3,Continue trapping,34397,Chinook salmon,Spring,Natural,Parr,58.0,,1,Yes,255
+7,1562,2025-02-19T11:25:34Z,Hallwood,Hallwood 3,Continue trapping,34399,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1562,2025-02-19T11:25:34Z,Hallwood,Hallwood 3,Continue trapping,34400,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34236,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34242,California roach,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34241,California roach,Fall,Natural,Parr,49.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34240,California roach,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34239,California roach,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34237,California roach,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34245,California roach,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34235,California roach,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34234,California roach,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34233,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34232,California roach,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34231,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34238,California roach,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34244,California roach,Fall,Natural,Fry,43.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34246,California roach,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34247,California roach,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34248,California roach,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34249,California roach,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34250,California roach,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34251,California roach,Fall,Natural,Parr,53.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34252,California roach,Fall,Natural,Fry,31.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34254,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34256,California roach,Fall,Natural,Fry,42.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34257,California roach,Fall,Natural,Not recorded,,,17,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34253,California roach,Fall,Natural,Fry,42.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34230,California roach,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34243,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34203,Sacramento pikeminnow,Not recorded,Natural,Not recorded,51.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34209,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34208,California roach,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34207,California roach,Fall,Natural,Yolk sac fry (alevin),33.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34195,Unknown sculpin (Cottus),Not recorded,Natural,Not recorded,,45.0,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34206,Bluegill,Not recorded,Natural,Not recorded,95.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34196,Riffle sculpin,Not recorded,Natural,Not recorded,,74.0,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34210,California roach,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34204,Sacramento pikeminnow,Not recorded,Natural,Not recorded,44.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34198,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,70.0,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34202,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,84.0,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34201,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,132.0,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34200,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,78.0,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34197,Riffle sculpin,Not recorded,Natural,Not recorded,,80.0,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34199,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,99.0,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34229,California roach,Fall,Natural,Yolk sac fry (alevin),34.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34255,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34205,Sacramento pikeminnow,Not recorded,Natural,Not recorded,45.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34226,California roach,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34211,California roach,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34228,California roach,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34227,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34225,California roach,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34224,California roach,Fall,Natural,Fry,54.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34223,California roach,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34222,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34221,California roach,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34214,California roach,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34220,California roach,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34212,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34213,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34215,California roach,Fall,Natural,Fry,42.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34216,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34217,California roach,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34218,California roach,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1557,2025-02-19T11:32:27Z,Hallwood,Hallwood 2 RL,Continue trapping,34219,California roach,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34314,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34304,Chinook salmon,Fall,Natural,Parr,47.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34312,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34311,Chinook salmon,Fall,Natural,Parr,47.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34310,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34309,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34313,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34308,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34307,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34301,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34305,Chinook salmon,Fall,Natural,Parr,44.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34303,Chinook salmon,Fall,Natural,Parr,42.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34315,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34325,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34306,Chinook salmon,Fall,Natural,Parr,42.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34332,Chinook salmon,Fall,Natural,Not recorded,,,4,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34300,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34331,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34330,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34329,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34328,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34327,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34323,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34324,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34316,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34322,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34321,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34320,Chinook salmon,Fall,Natural,Fry,42.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34319,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34318,Chinook salmon,Fall,Natural,Parr,43.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34317,Chinook salmon,Fall,Natural,Parr,45.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34326,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34268,Bluegill,Not recorded,Natural,Not recorded,120.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34277,Riffle sculpin,Not recorded,Natural,Not recorded,,50.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34276,Riffle sculpin,Not recorded,Natural,Not recorded,,75.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34275,Riffle sculpin,Not recorded,Natural,Not recorded,,73.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34274,Riffle sculpin,Not recorded,Natural,Not recorded,,53.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34273,Unknown sculpin (Cottus),Not recorded,Natural,Not recorded,,46.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34272,Unknown sculpin (Cottus),Not recorded,Natural,Not recorded,,44.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34271,Bluegill,Not recorded,Natural,Not recorded,50.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34279,Chinook salmon,Spring,Natural,Silvery parr,70.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34269,Bluegill,Not recorded,Natural,Not recorded,99.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34280,Chinook salmon,Spring,Natural,Silvery parr,64.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34267,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,67.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34266,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,95.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34263,Sacramento pikeminnow,Not recorded,Natural,Not recorded,27.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34299,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34264,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,130.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34302,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34265,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,132.0,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34270,Bluegill,Not recorded,Natural,Not recorded,100.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34288,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34298,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34297,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34296,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34295,Chinook salmon,Fall,Natural,Fry,31.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34294,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34293,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34292,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34291,Chinook salmon,Fall,Natural,Parr,39.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34278,Chinook salmon,Winter,Natural,Silvery parr,76.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34289,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34287,Chinook salmon,Fall,Natural,Fry,31.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34286,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34285,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34284,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34283,Chinook salmon,Fall,Natural,Parr,45.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34282,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34281,Chinook salmon,Spring,Natural,Silvery parr,50.0,,1,Yes,255
+7,1560,2025-02-20T12:00:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34290,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1563,2025-02-20T12:00:23Z,Hallwood,Hallwood 3,Continue trapping,34406,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1563,2025-02-20T12:00:23Z,Hallwood,Hallwood 3,Continue trapping,34401,Sacramento pikeminnow,Not recorded,Natural,Not recorded,110.0,,1,Yes,255
+7,1563,2025-02-20T12:00:23Z,Hallwood,Hallwood 3,Continue trapping,34403,Riffle sculpin,Not recorded,Natural,Not recorded,,87.0,1,Yes,255
+7,1563,2025-02-20T12:00:23Z,Hallwood,Hallwood 3,Continue trapping,34405,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1563,2025-02-20T12:00:23Z,Hallwood,Hallwood 3,Continue trapping,34407,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1563,2025-02-20T12:00:23Z,Hallwood,Hallwood 3,Continue trapping,34402,Riffle sculpin,Not recorded,Natural,Not recorded,,97.0,1,Yes,255
+7,1563,2025-02-20T12:00:23Z,Hallwood,Hallwood 3,Continue trapping,34404,Chinook salmon,Fall,Natural,Parr,50.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34376,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34382,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34381,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34380,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),30.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34379,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34378,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),34.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34377,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),30.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34386,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34375,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34374,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34373,Chinook salmon,Fall,Natural,Parr,44.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34372,Chinook salmon,Fall,Natural,Parr,39.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34361,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34383,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34385,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34387,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34388,Chinook salmon,Fall,Natural,Silvery parr,45.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34389,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34390,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34391,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34392,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34393,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34394,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34395,Chinook salmon,Fall,Natural,Not recorded,,,8,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34396,Chinook salmon,Fall,Natural,Not recorded,,,2,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34371,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34384,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34341,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34349,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34348,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34347,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34346,Chinook salmon,Fall,Natural,Silvery parr,45.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34345,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34344,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34370,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),33.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34342,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34352,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34340,Chinook salmon,Spring,Natural,Silvery parr,60.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34339,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,70.0,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34338,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,121.0,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34337,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,104.0,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34336,Mosquitofish,Not recorded,Natural,Not recorded,,31.0,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34335,Hardhead,Not recorded,Natural,Not recorded,97.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34334,Golden shiner,Not recorded,Natural,Not recorded,44.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34343,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34359,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34369,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34368,Chinook salmon,Fall,Natural,Parr,43.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34367,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34366,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34365,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34364,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34362,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34350,Chinook salmon,Fall,Natural,Silvery parr,43.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34360,Chinook salmon,Fall,Natural,Parr,39.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34351,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34358,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34357,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34356,Chinook salmon,Fall,Natural,Parr,30.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34355,Chinook salmon,Fall,Natural,Silvery parr,42.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34354,Chinook salmon,Fall,Natural,Silvery parr,51.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34353,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34333,Sacramento sucker,Not recorded,Natural,Not recorded,47.0,,1,Yes,255
+7,1561,2025-02-21T09:35:03Z,Hallwood,Hallwood 2 RL,Continue trapping,34363,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1564,2025-02-21T09:35:14Z,Hallwood,Hallwood 3,Continue trapping,34408,Sacramento pikeminnow,Not recorded,Natural,Not recorded,53.0,,1,Yes,255
+7,1564,2025-02-21T09:35:14Z,Hallwood,Hallwood 3,Continue trapping,34409,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1565,2025-02-22T10:35:10Z,Hallwood,Hallwood 3,Continue trapping,34410,Prickly sculpin,Not recorded,Natural,Not recorded,,71.0,1,Yes,255
+7,1565,2025-02-22T10:35:10Z,Hallwood,Hallwood 3,Continue trapping,34411,Chinook salmon,Fall,Natural,Parr,46.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34452,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34460,Chinook salmon,Fall,Natural,Parr,46.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34459,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34458,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34457,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34456,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34455,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34453,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34464,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34451,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34450,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34449,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34448,Chinook salmon,Fall,Natural,Parr,44.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34447,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34446,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34454,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34470,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34445,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34437,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34476,Chinook salmon,Fall,Natural,Not recorded,,,14,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34475,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34474,Chinook salmon,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34473,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34462,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34471,Chinook salmon,Fall,Natural,Parr,44.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34461,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34469,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34468,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34467,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34466,Chinook salmon,Fall,Natural,Silvery parr,57.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34465,Chinook salmon,Fall,Natural,Parr,47.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34463,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34472,Chinook salmon,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34431,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34444,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34439,Chinook salmon,Fall,Natural,Parr,46.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34421,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,117.0,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34422,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,145.0,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34423,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,60.0,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34424,Sacramento sucker,Not recorded,Natural,Not recorded,100.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34425,Chinook salmon,Fall,Natural,Parr,33.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34426,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34427,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),32.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34428,Chinook salmon,Fall,Natural,Parr,35.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34430,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34477,Chinook salmon,Fall,Natural,Not recorded,,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34443,Chinook salmon,Fall,Natural,Parr,34.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34442,Chinook salmon,Fall,Natural,Parr,38.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34441,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34440,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34429,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),32.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34438,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),32.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34432,Chinook salmon,Fall,Natural,Parr,37.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34436,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34435,Chinook salmon,Fall,Natural,Parr,46.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34434,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1567,2025-02-22T10:35:16Z,Hallwood,Hallwood 2 RL,Continue trapping,34433,Chinook salmon,Fall,Natural,Parr,36.0,,1,Yes,255
+7,1566,2025-02-23T09:40:46Z,Hallwood,Hallwood 3,Continue trapping,34416,Chinook salmon,Fall,Natural,Parr,42.0,,1,Yes,255
+7,1566,2025-02-23T09:40:46Z,Hallwood,Hallwood 3,Continue trapping,34414,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1566,2025-02-23T09:40:46Z,Hallwood,Hallwood 3,Continue trapping,34415,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1566,2025-02-23T09:40:46Z,Hallwood,Hallwood 3,Continue trapping,34412,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1566,2025-02-23T09:40:46Z,Hallwood,Hallwood 3,Continue trapping,34418,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1566,2025-02-23T09:40:46Z,Hallwood,Hallwood 3,Continue trapping,34419,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1566,2025-02-23T09:40:46Z,Hallwood,Hallwood 3,Continue trapping,34420,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1566,2025-02-23T09:40:46Z,Hallwood,Hallwood 3,Continue trapping,34413,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1566,2025-02-23T09:40:46Z,Hallwood,Hallwood 3,Continue trapping,34417,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34511,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34518,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34517,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34516,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34515,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34514,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34519,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34512,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34523,Chinook salmon,Fall,Natural,Silvery parr,54.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34510,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34509,Chinook salmon,Fall,Natural,Silvery parr,57.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34508,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34507,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34513,Chinook salmon,Fall,Natural,Parr,44.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34520,Chinook salmon,Fall,Natural,Parr,42.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34522,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34524,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34525,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34526,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34527,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34528,Chinook salmon,Fall,Natural,Parr,46.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34529,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34530,Chinook salmon,Fall,Natural,Parr,51.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34531,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34533,Chinook salmon,Fall,Natural,Not recorded,,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34532,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34506,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34521,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34491,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34505,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34479,Riffle sculpin,Not recorded,Natural,Not recorded,,72.0,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34480,Riffle sculpin,Not recorded,Natural,Not recorded,,71.0,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34481,Riffle sculpin,Not recorded,Natural,Not recorded,,50.0,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34482,Riffle sculpin,Not recorded,Natural,Not recorded,,51.0,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34483,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,117.0,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34484,Sacramento sucker,Not recorded,Natural,Not recorded,66.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34485,Bluegill,Not recorded,Natural,Not recorded,87.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34486,Chinook salmon,Spring,Natural,Silvery parr,71.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34487,Chinook salmon,Spring,Natural,Silvery parr,67.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34488,Chinook salmon,Spring,Natural,Silvery parr,63.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34490,Chinook salmon,Fall,Natural,Parr,45.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34478,Riffle sculpin,Not recorded,Natural,Not recorded,,50.0,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34498,Chinook salmon,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34504,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34503,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34502,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34501,Chinook salmon,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34489,Chinook salmon,Fall,Natural,Not recorded,43.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34499,Chinook salmon,Fall,Natural,Parr,50.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34492,Chinook salmon,Fall,Natural,Parr,43.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34497,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34496,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34495,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34494,Chinook salmon,Fall,Natural,Silvery parr,54.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34493,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1568,2025-02-23T09:45:43Z,Hallwood,Hallwood 2 RL,Continue trapping,34500,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1570,2025-02-24T10:35:11Z,Hallwood,Hallwood 3,Continue trapping,34582,Riffle sculpin,Not recorded,Natural,Not recorded,,70.0,1,Yes,255
+7,1570,2025-02-24T10:35:11Z,Hallwood,Hallwood 3,Continue trapping,34581,Sacramento sucker,Not recorded,Natural,Not recorded,38.0,,1,Yes,255
+7,1570,2025-02-24T10:35:11Z,Hallwood,Hallwood 3,Continue trapping,34585,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1570,2025-02-24T10:35:11Z,Hallwood,Hallwood 3,Continue trapping,34583,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1570,2025-02-24T10:35:11Z,Hallwood,Hallwood 3,Continue trapping,34584,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34545,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34562,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34563,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34564,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34565,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34566,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34567,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34568,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34569,Chinook salmon,Fall,Natural,Parr,41.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34570,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34572,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34573,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34574,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34575,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34576,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34577,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34578,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34579,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34580,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34561,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34571,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34548,Chinook salmon,Fall,Natural,Fry,55.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34534,Unknown lamprey (Entosphenus or Lampetra),Not recorded,Natural,Ammocoete,,98.0,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34535,Sacramento sucker,Not recorded,Natural,Not recorded,43.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34536,Chinook salmon,Fall,Natural,Not recorded,38.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34537,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34538,Chinook salmon,Fall,Natural,Fry,33.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34539,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34540,Chinook salmon,Fall,Natural,Fry,36.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34541,Chinook salmon,Fall,Natural,Fry,39.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34542,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34543,Chinook salmon,Fall,Natural,Fry,38.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34547,Chinook salmon,Fall,Natural,Fry,55.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34546,Chinook salmon,Fall,Natural,Fry,44.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34560,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34549,Chinook salmon,Fall,Natural,Fry,47.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34550,Chinook salmon,Fall,Natural,Fry,45.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34551,Chinook salmon,Fall,Natural,Fry,43.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34552,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34553,Chinook salmon,Fall,Natural,Fry,42.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34554,Chinook salmon,Fall,Natural,Fry,37.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34555,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34556,Chinook salmon,Fall,Natural,Fry,35.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34557,Chinook salmon,Fall,Natural,Fry,34.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34558,Chinook salmon,Fall,Natural,Yolk sac fry (alevin),33.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34559,Chinook salmon,Fall,Natural,Parr,40.0,,1,Yes,255
+7,1569,2025-02-24T10:40:11Z,Hallwood,Hallwood 2 RL,Continue trapping,34544,Chinook salmon,Fall,Natural,Fry,43.0,,1,Yes,255
