@@ -41,16 +41,16 @@ projectDescriptionID,trapVisitID,visitTime,siteName,subSiteName,visitType,fishPr
 7,1529,2025-01-20T09:40:45Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,1472.0,0.899999976158142,1.0,Yes,9.0,2.50999999046326
 7,1537,2025-01-21T11:00:00Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,1425.0,0.800000011920929,0.899999976158142,Yes,9.0,2.64000010490417
 7,1531,2025-01-21T11:00:53Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,1330.0,0.800000011920929,1.20000004768372,Yes,9.0,2.64000010490417
-7,1538,2025-01-22T10:45:26Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,950.0,0.5,0.800000011920929,Yes,9.0,2.29999995231628
 7,1532,2025-01-22T10:45:26Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,1330.0,0.800000011920929,0.899999976158142,Yes,9.0,2.29999995231628
+7,1538,2025-01-22T10:45:26Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,950.0,0.5,0.800000011920929,Yes,9.0,2.29999995231628
 7,1533,2025-01-23T10:55:19Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning but not normally,760.0,0.0,1.5,Yes,9.0,2.28999996185303
 7,1539,2025-01-23T10:55:50Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,1425.0,0.699999988079071,1.60000002384186,Yes,9.0,2.28999996185303
 7,1540,2025-01-24T09:58:31Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,1425.0,0.600000023841858,0.699999988079071,Yes,9.0,2.90000009536743
 7,1534,2025-01-24T09:58:41Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,1520.0,0.699999988079071,1.10000002384186,Yes,9.0,2.90000009536743
 7,1535,2025-01-25T09:30:14Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,950.0,0.0,1.39999997615814,Yes,7.0,2.41000008583069
 7,1541,2025-01-25T09:30:54Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,950.0,0.5,1.0,Yes,7.0,2.41000008583069
-7,1536,2025-01-26T12:15:09Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,1472.0,0.600000023841858,1.29999995231628,Yes,9.0,2.16000008583069
 7,1542,2025-01-26T12:15:09Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,1425.0,0.5,1.20000004768372,Yes,9.0,2.16000008583069
+7,1536,2025-01-26T12:15:09Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,1472.0,0.600000023841858,1.29999995231628,Yes,9.0,2.16000008583069
 7,1545,2025-01-27T11:00:16Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,950.0,0.5,1.39999997615814,Yes,9.0,1.92999994754791
 7,1543,2025-01-27T11:00:17Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,1330.0,0.800000011920929,1.29999995231628,Yes,9.0,1.92999994754791
 7,1544,2025-01-28T11:25:02Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,1330.0,0.300000011920929,1.5,Yes,9.0,2.03999996185303
@@ -86,8 +86,8 @@ projectDescriptionID,trapVisitID,visitTime,siteName,subSiteName,visitType,fishPr
 7,1578,2025-02-27T10:30:03Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,7695.0,5.69999980926514,5.19999980926514,Yes,10.0,3.24000000953674
 7,1577,2025-02-27T10:30:05Z,Hallwood,Hallwood 3,Start trap & begin trapping,Not applicable,Trap functioning normally,,,0.100000001490116,Yes,10.0,3.24000000953674
 7,1576,2025-02-27T10:30:46Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,4275.0,3.29999995231628,2.90000009536743,Yes,10.0,3.24000000953674
-7,1579,2025-02-28T08:46:17Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,6745.0,5.19999980926514,4.80000019073486,Yes,10.0,3.07999992370605
 7,1581,2025-02-28T08:46:17Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,0.0,0.100000001490116,0.100000001490116,Yes,10.0,3.07999992370605
+7,1579,2025-02-28T08:46:17Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,6745.0,5.19999980926514,4.80000019073486,Yes,10.0,3.07999992370605
 7,1580,2025-02-28T08:46:54Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,4275.0,3.0,3.79999995231628,Yes,10.0,3.07999992370605
 7,1584,2025-03-01T09:09:10Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,4750.0,3.20000004768372,3.20000004768372,Yes,10.0,3.84999990463257
 7,1593,2025-03-01T09:09:34Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,,0.0,0.0,Yes,,
@@ -130,8 +130,8 @@ projectDescriptionID,trapVisitID,visitTime,siteName,subSiteName,visitType,fishPr
 7,1620,2025-03-13T10:42:53Z,Hallwood,Hallwood 1 RR,Continue trapping,No fish were caught,Trap functioning normally,,,5.0,Yes,10.0,3.47000002861023
 7,1624,2025-03-13T10:42:54Z,Hallwood,Hallwood 3,Start trap & begin trapping,No fish were caught,Trap functioning normally,,,0.300000011920929,Yes,10.0,3.47000002861023
 7,1623,2025-03-14T09:03:02Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,,4.0,3.09999990463257,Yes,9.0,2.72000002861023
-7,1621,2025-03-14T09:03:48Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,6887.0,4.80000019073486,4.09999990463257,Yes,9.0,2.72000002861023
 7,1625,2025-03-14T09:03:48Z,Hallwood,Hallwood 3,Continue trapping,Processed fish,Trap functioning normally,997.0,0.100000001490116,0.0,Yes,9.0,2.72000002861023
+7,1621,2025-03-14T09:03:48Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,6887.0,4.80000019073486,4.09999990463257,Yes,9.0,2.72000002861023
 7,1628,2025-03-15T09:29:18Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,6270.0,4.40000009536743,4.90000009536743,Yes,9.0,4.40000009536743
 7,1626,2025-03-15T09:29:47Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,95.0,1.0,0.100000001490116,Yes,9.0,4.40000009536743
 7,1630,2025-03-15T09:29:52Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,4750.0,2.0,3.40000009536743,Yes,9.0,4.40000009536743
@@ -166,7 +166,7 @@ projectDescriptionID,trapVisitID,visitTime,siteName,subSiteName,visitType,fishPr
 7,1658,2025-03-26T09:32:48Z,Hallwood,Hallwood 3,Continue trapping,Not applicable,Trap functioning normally,570.0,0.100000001490116,0.0,Yes,11.0,2.78999996185303
 7,1659,2025-03-26T09:32:58Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,6650.0,4.69999980926514,4.59999990463257,Yes,11.0,2.78999996185303
 7,1662,2025-03-27T00:12:44Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,6602.0,4.5,3.90000009536743,Yes,11.5,2.5699999332428
-7,1661,2025-03-27T12:12:30Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,5225.0,3.5,3.09999990463257,Yes,11.5,11.5
+7,1661,2025-03-27T12:12:30Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,5225.0,3.5,3.09999990463257,Yes,11.5,2.5699999332428
 7,1663,2025-03-27T12:12:44Z,Hallwood,Hallwood 3,Continue trapping,Processed fish,Trap functioning normally,522.0,0.100000001490116,0.0,Yes,11.5,2.5699999332428
 7,1665,2025-03-28T11:05:01Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,4275.0,3.20000004768372,3.29999995231628,Yes,11.5,4.13000011444092
 7,1666,2025-03-28T11:05:32Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,5700.0,3.09999990463257,3.20000004768372,Yes,11.5,4.13000011444092
@@ -197,10 +197,53 @@ projectDescriptionID,trapVisitID,visitTime,siteName,subSiteName,visitType,fishPr
 7,1688,2025-04-05T11:16:56Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,1900.0,2.09999990463257,2.29999995231628,Yes,10.0,3.41000008583069
 7,1697,2025-04-06T10:22:07Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,0.0,0.100000001490116,0.100000001490116,Yes,11.0,2.99000000953674
 7,1694,2025-04-06T10:22:08Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,1900.0,1.79999995231628,2.0,Yes,11.0,2.99000000953674
-7,1691,2025-04-06T10:22:22Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,2850.0,2.0,2.29999995231628,Yes,14.0,2.99000000953674
+7,1691,2025-04-06T10:22:22Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,2850.0,2.0,2.29999995231628,Yes,11.0,2.99000000953674
 7,1695,2025-04-07T09:50:17Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.60000002384186,2.20000004768372,Yes,10.0,2.41000008583069
 7,1698,2025-04-07T10:00:59Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,0.0,0.100000001490116,0.100000001490116,Yes,10.0,2.41000008583069
 7,1692,2025-04-07T10:05:17Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,2707.0,2.09999990463257,2.90000009536743,Yes,10.0,2.41000008583069
 7,1696,2025-04-08T10:02:55Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.79999995231628,1.5,Yes,10.0,2.16000008583069
 7,1699,2025-04-08T10:05:22Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,47.0,0.100000001490116,0.100000001490116,Yes,10.0,2.16000008583069
 7,1693,2025-04-08T10:15:39Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,3610.0,3.09999990463257,2.20000004768372,Yes,10.0,2.16000008583069
+7,1700,2025-04-09T10:25:14Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,3800.0,4.0,3.79999995231628,Yes,11.0,2.01999998092651
+7,1701,2025-04-09T10:25:36Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2850.0,1.29999995231628,2.09999990463257,Yes,11.0,2.01999998092651
+7,1702,2025-04-09T10:30:19Z,Hallwood,Hallwood 3,Continue trapping,Processed fish,Trap functioning normally,47.0,0.100000001490116,0.100000001490116,Yes,11.0,2.01999998092651
+7,1703,2025-04-10T10:04:02Z,Hallwood,Hallwood 3,Continue trapping,Processed fish,Trap functioning normally,95.0,0.100000001490116,0.0,Yes,10.0,2.86999988555908
+7,1709,2025-04-10T10:04:08Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,4180.0,2.70000004768372,3.0,Yes,10.0,2.86999988555908
+7,1704,2025-04-10T10:04:33Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.60000002384186,1.5,Yes,10.0,2.86999988555908
+7,1705,2025-04-10T10:04:49Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,4180.0,2.70000004768372,3.0,Yes,10.0,2.86999988555908
+7,1707,2025-04-11T08:45:28Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,1900.0,1.39999997615814,1.0,Yes,10.5,1.97000002861023
+7,1710,2025-04-11T08:49:13Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,2755.0,2.5,2.79999995231628,Yes,10.5,1.97000002861023
+7,1706,2025-04-11T08:49:47Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,2755.0,2.5,2.79999995231628,Yes,10.5,1.97000002861023
+7,1708,2025-04-11T08:50:04Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,0.0,0.0,0.0,Yes,10.5,1.97000002861023
+7,1711,2025-04-12T09:55:00Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,3420.0,1.60000002384186,1.60000002384186,Yes,12.0,2.60999989509583
+7,1721,2025-04-12T09:55:41Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,0.0,0.100000001490116,0.100000001490116,Yes,12.0,2.60999989509583
+7,1716,2025-04-12T09:55:52Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.79999995231628,1.70000004768372,Yes,12.0,2.60999989509583
+7,1717,2025-04-13T13:12:25Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,0.899999976158142,2.79999995231628,Yes,12.0,3.3199999332428
+7,1722,2025-04-13T13:12:28Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,47.0,0.100000001490116,0.100000001490116,Yes,12.0,3.3199999332428
+7,1712,2025-04-13T13:12:28Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,2850.0,2.90000009536743,2.29999995231628,Yes,12.0,3.3199999332428
+7,1718,2025-04-14T10:30:18Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.29999995231628,1.20000004768372,Yes,11.0,2.08999991416931
+7,1723,2025-04-14T10:33:20Z,Hallwood,Hallwood 3,Continue trapping,Processed fish,Trap functioning normally,95.0,0.300000011920929,0.100000001490116,Yes,11.0,2.08999991416931
+7,1713,2025-04-14T10:40:48Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,4085.0,3.0,2.90000009536743,Yes,11.0,2.08999991416931
+7,1719,2025-04-15T10:26:52Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.60000002384186,2.79999995231628,Yes,11.5,1.33000004291534
+7,1714,2025-04-15T10:26:59Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,3800.0,1.29999995231628,3.20000004768372,Yes,11.5,1.33000004291534
+7,1720,2025-04-16T10:06:13Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.39999997615814,2.40000009536743,Yes,11.0,1.54999995231628
+7,1725,2025-04-16T10:06:24Z,Hallwood,Hallwood 3,Continue trapping,Processed fish,Trap functioning normally,95.0,0.0,0.0,Yes,11.0,1.54999995231628
+7,1715,2025-04-16T10:06:25Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,3135.0,1.20000004768372,2.20000004768372,Yes,11.0,1.54999995231628
+7,1727,2025-04-17T10:59:51Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2850.0,1.39999997615814,2.0,Yes,11.5,1.62999999523163
+7,1726,2025-04-17T11:00:18Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,2897.0,2.20000004768372,1.89999997615814,Yes,11.5,1.62999999523163
+7,1728,2025-04-17T11:00:23Z,Hallwood,Hallwood 3,Continue trapping,Processed fish,Trap functioning normally,47.0,0.100000001490116,0.100000001490116,Yes,11.5,1.62999999523163
+7,1730,2025-04-18T10:05:04Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,2.20000004768372,1.29999995231628,Yes,11.0,2.41000008583069
+7,1731,2025-04-18T10:05:07Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,3325.0,1.89999997615814,2.09999990463257,Yes,11.0,2.41000008583069
+7,1729,2025-04-18T10:05:12Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,47.0,0.200000002980232,0.0,Yes,11.0,2.41000008583069
+7,1732,2025-04-19T09:50:19Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,3420.0,2.0,2.40000009536743,Yes,11.5,2.74000000953674
+7,1733,2025-04-19T09:50:32Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,1900.0,1.29999995231628,2.59999990463257,Yes,11.5,2.74000000953674
+7,1734,2025-04-19T09:50:39Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,47.0,0.0,0.0,Yes,11.5,2.74000000953674
+7,1736,2025-04-20T09:31:17Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.20000004768372,1.5,Yes,11.0,1.74000000953674
+7,1737,2025-04-20T09:31:37Z,Hallwood,Hallwood 3,Continue trapping,Processed fish,Trap functioning normally,47.0,0.100000001490116,0.100000001490116,Yes,11.0,1.74000000953674
+7,1735,2025-04-20T09:31:50Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,3325.0,1.70000004768372,1.89999997615814,Yes,11.0,1.74000000953674
+7,1740,2025-04-21T11:50:33Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,4132.0,2.29999995231628,2.70000004768372,Yes,12.0,2.16000008583069
+7,1739,2025-04-21T11:55:17Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.20000004768372,1.79999995231628,Yes,12.0,2.16000008583069
+7,1738,2025-04-21T12:00:18Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,95.0,0.100000001490116,0.100000001490116,Yes,12.0,2.16000008583069
+7,1742,2025-04-22T10:25:09Z,Hallwood,Hallwood 2 RL,Continue trapping,Processed fish,Trap functioning normally,2375.0,1.39999997615814,1.89999997615814,Yes,11.5,2.16000008583069
+7,1741,2025-04-22T10:25:35Z,Hallwood,Hallwood 1 RR,Continue trapping,Processed fish,Trap functioning normally,3705.0,3.09999990463257,2.59999990463257,Yes,11.5,2.16000008583069
+7,1743,2025-04-22T10:25:39Z,Hallwood,Hallwood 3,Continue trapping,No fish were caught,Trap functioning normally,47.0,0.100000001490116,0.100000001490116,Yes,11.5,2.16000008583069
