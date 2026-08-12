@@ -11,8 +11,7 @@ jobs:
       image: ipeng93/edi-workflow:latest
     env:
       R_REMOTES_NO_ERRORS_FROM_WARNINGS: true
-      EDI_USERNAME: ${{ secrets.EDI_USERNAME }}
-      EDI_PASSWORD: ${{ secrets.EDI_PASSWORD }}
+      EDI_ACCESS_KEY: ${{secrets.EDI_ACCESS_KEY}}
     steps:
       - name: Update package lists
         run: sudo apt-get --allow-releaseinfo-change update
@@ -54,8 +53,7 @@ jobs:
           git push
       - name: Run create xml
         env:
-          EDI_USERNAME: ${{ secrets.EDI_USERNAME }}
-          EDI_PASSWORD: ${{ secrets.EDI_PASSWORD }}
+          EDI_ACCESS_KEY: ${{secrets.EDI_ACCESS_KEY}}}
         run: |
           source('data-raw/make_metadata_xml.R')
         shell: Rscript {0}
