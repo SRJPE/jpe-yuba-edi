@@ -1,1 +1,21 @@
 projectDescriptionID,releaseID,releaseTime,commonName,markedRun,markedFishOrigin,sourceOfFishSite,releaseSite,releaseSubSite,nReleased,testDays,appliedMarkType,appliedMarkColor,appliedMarkPosition,appliedMarkCode,IncludeInAnalysis
+7,324,2026-01-09T13:30:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,306.0,7,Elastomer,Yellow,Nose,,Yes
+7,325,2026-01-15T11:45:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,484.0,7,Elastomer,Yellow,Nose,,Yes
+7,326,2026-01-22T13:30:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,506.0,7,Elastomer,Yellow,Nose,,Yes
+7,327,2026-01-29T13:15:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,808.0,7,Elastomer,Yellow,Nose,,Yes
+7,328,2026-02-05T12:15:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,458.0,8,Elastomer,Yellow,Nose,,Yes
+7,329,2026-02-12T12:15:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,198.0,7,Elastomer,Yellow,Nose,,Yes
+7,330,2026-02-20T12:15:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,918.0,7,Elastomer,Yellow,Nose,,Yes
+7,331,2026-03-05T12:00:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,186.0,7,Elastomer,Yellow,Nose,,Yes
+7,332,2026-03-11T12:45:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,234.0,7,Elastomer,Yellow,Nose,,Yes
+7,333,2026-03-19T13:15:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,148.0,7,Elastomer,Yellow,Nose,,Yes
+7,334,2026-03-26T12:40:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,233.0,7,Elastomer,Yellow,Nose,,Yes
+7,335,2026-04-02T16:20:12Z,Chinook salmon,Fall,Natural,Not recorded,Hallwood Release Site,,47.0,7,Elastomer,Yellow,Nose,,Yes
+7,336,2026-04-02T16:20:12Z,Chinook salmon,Fall,Hatchery,Hallwood,Hallwood Release Site,,45.0,7,Elastomer,Pink,Nose,,Yes
+7,337,2026-04-09T12:05:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,125.0,7,Elastomer,Yellow,Nose,,Yes
+7,338,2026-02-04T12:15:12Z,Chinook salmon,Fall,Natural,Hallwood,Hallwood Release Site,,322.0,7,Elastomer,Pink,Nose,,Yes
+7,340,2026-04-16T11:50:12Z,Chinook salmon,Fall,Hatchery,Not applicable,Hallwood Release Site,,14.0,7,Elastomer,Yellow,Nose,,Yes
+7,341,2026-04-16T11:50:12Z,Chinook salmon,Fall,Hatchery,Hallwood,Hallwood Release Site,,495.0,7,Elastomer,Pink,Nose,,Yes
+7,342,2026-04-30T10:30:12Z,Chinook salmon,Fall,Natural,,Hallwood Release Site,,303.0,7,Elastomer,Yellow,Nose,,Yes
+7,343,2026-05-07T12:30:12Z,Chinook salmon,Fall,Hatchery,,Hallwood Release Site,,258.0,7,Elastomer,Pink,Nose,,Yes
+7,344,2026-05-07T12:30:12Z,Chinook salmon,Fall,Natural,,Hallwood Release Site,,55.0,7,Elastomer,Yellow,Nose,,Yes
