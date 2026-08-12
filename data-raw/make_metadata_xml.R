@@ -4,8 +4,7 @@ library(readxl)
 library(EML)
 library(readr)
 
-secret_edi_username = Sys.getenv("EDI_USERNAME")
-secret_edi_password = Sys.getenv("EDI_PASSWORD")
+secret_edi_api_key = Sys.getenv("EDI_ACCESS_KEY")
 
 datatable_metadata <- dplyr::tibble(
   filepath = character(),
@@ -149,8 +148,7 @@ eml <- list(packageId = current_edi_number,
 EML::write_eml(eml, paste0(current_edi_number, ".xml"))
 message("EML Metadata generated")
 print(paste0("Current EDI Number:", current_edi_number))
-EMLaide::update_edi_package(user_id = secret_edi_username,
-                            password = secret_edi_password,
+EMLaide::update_edi_package(api_key = secret_edi_api_key,
                             eml_file_path = paste0(getwd(), "/", current_edi_number, ".xml"),
                             existing_package_identifier = paste0("edi.",previous_edi_id, ".", previous_edi_ver, ".xml"),
                             environment = "production")
